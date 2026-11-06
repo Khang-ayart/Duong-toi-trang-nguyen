@@ -20,6 +20,8 @@ Game thi cử Hương, Hội, Đình chơi hoàn toàn offline trên Android, c�
 
 - Ba người điểm Đình cao nhất: Trạng Nguyên, Bảng Nhãn, Thám Hoa. Người còn lại qua Đình là Tú Tài. Có khoa không ai đỗ.
 - Bằng điểm Đình thì xét tổng điểm 3 kỳ, rồi tổng thời gian ít hơn.
+- Dừng bước giữa chừng vẫn có danh xưng xưa: đỗ Hương rớt Hội là **Cử Nhân**, đỗ Hội rớt Đình là **Phó Bảng**.
+- Sau mỗi kỳ có bảng xếp hạng top 10 (kèm avatar, điểm vừa cộng, lên/xuống hạng). Nếu bạn ngoài top 10, dòng của bạn hiện ở dưới cùng.
 - Mỗi câu 30 giây = 300 điểm. 1 giây = 100 khắc, cứ 10 khắc trừ 1 điểm.
 - Chuỗi: đúng liên tiếp và mỗi câu từ 250 điểm trở lên (trả lời trong 5 giây). Từ câu thứ 6 của chuỗi, cộng thêm 10 × (độ dài chuỗi − 5). Sai, hết giờ hoặc chậm quá 5 giây là đứt chuỗi. Sang kỳ mới tính lại.
 

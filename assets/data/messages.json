@@ -77,5 +77,15 @@
     "Trống Đình vang lên mà chẳng ai đủ sức bước tới. Bảng vàng trống không, triều đình mong khoa sau có nhân tài.",
     "Muôn sĩ tử vào trường, mà bảng vàng khoa này vẫn bỏ trống. Thánh thượng thở dài, hẹn khoa sau.",
     "Khoa này bảng vàng bỏ trống, triều đình lắc đầu. Hẹn khoa sau."
+  ],
+  "danh_cunhan": [
+    "Triều đình ban danh xưng Cử Nhân cho {ten}: đã đỗ Hương thí, tiếng thơm lan khắp xóm làng. Thời Lê còn gọi là Hương Cống.",
+    "Hội thí chưa thành, nhưng {ten} đã mang danh Cử Nhân, người trong vùng ai cũng nể trọng. Khoa sau hãy lên kinh một phen nữa.",
+    "Cử Nhân {ten}! Hương bảng đề tên, mũ áo chỉnh tề, chỉ còn chờ khoa Hội kế tiếp để tiến thêm một bậc."
+  ],
+  "danh_phobang": [
+    "Triều đình ban danh xưng Phó Bảng cho {ten}: đã trúng Hội thí, chỉ còn cách hàng Tiến sĩ một bước. Tiếng tăm vang khắp kinh kỳ.",
+    "Đình thí chưa chọn được tên {ten} vào hàng Tiến sĩ, nhưng Hội thí trúng cách là bậc tài hiếm có. Triều Nguyễn gọi bậc này là Phó Bảng.",
+    "Phó Bảng {ten}! Qua Hội thí giữa muôn người, danh tiếng đã vượt xa đồng môn, chỉ tiếc bảng vàng chưa kịp đề tên."
   ]
 }

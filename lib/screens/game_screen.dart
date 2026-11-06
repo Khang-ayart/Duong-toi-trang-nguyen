@@ -5,6 +5,7 @@ import 'package:flutter/material.dart';
 
 import '../data.dart';
 import '../engine.dart';
+import '../leaderboard.dart';
 import '../models.dart';
 import '../theme.dart';
 import '../widgets.dart';
@@ -39,6 +40,10 @@ class _GameScreenState extends State<GameScreen> {
   int _roundRank = 0;
   int _roundTotal = 0;
   String _roundMessage = '';
+  List<StandingRow> _rows = <StandingRow>[];
+  int _passedCount = 0;
+  String _titleName = ''; // danh xưng nếu rớt giữa chừng (Cử Nhân, Phó Bảng)
+  String _titleText = '';
 
   @override
   void initState() {
@@ -147,11 +152,27 @@ class _GameScreenState extends State<GameScreen> {
         widget.playerName,
       );
     }
+    // Rớt Hội thì là Cử Nhân, rớt Đình thì là Phó Bảng.
+    String titleName = '';
+    String titleText = '';
+    if (!passed && _round == 1) {
+      titleName = kTitleCuNhan;
+      titleText = _session.messages
+          .pick('danh_cunhan', _session.rnd, widget.playerName);
+    } else if (!passed && _round == 2) {
+      titleName = kTitlePhoBang;
+      titleText = _session.messages
+          .pick('danh_phobang', _session.rnd, widget.playerName);
+    }
     setState(() {
       _roundPassed = passed;
       _roundRank = _session.playerRankInRound(_round);
       _roundTotal = _session.participantsInRound(_round);
       _roundMessage = message;
+      _rows = _session.standings(_round);
+      _passedCount = _session.passedInRound(_round);
+      _titleName = titleName;
+      _titleText = titleText;
       _phase = GamePhase.roundEnd;
     });
   }
@@ -619,6 +640,53 @@ class _GameScreenState extends State<GameScreen> {
         ),
       );
     }
+
+    if (_titleName.isNotEmpty) {
+      children.add(const SizedBox(height: 12));
+      children.add(
+        Panel(
+          borderColor: AppColors.gold,
+          borderWidth: 2.2,
+          child: Column(
+            children: <Widget>[
+              Text(
+                'Danh xưng: $_titleName',
+                textAlign: TextAlign.center,
+                style: serif(
+                  size: 20,
+                  weight: FontWeight.w900,
+                  color: AppColors.goldDark,
+                ),
+              ),
+              const SizedBox(height: 6),
+              Text(
+                _titleText,
+                textAlign: TextAlign.center,
+                style: serif(
+                  size: 15.5,
+                  weight: FontWeight.w500,
+                  height: 1.5,
+                  style: FontStyle.italic,
+                ),
+              ),
+            ],
+          ),
+        ),
+      );
+    }
+
+    children.add(const SizedBox(height: 14));
+    children.add(
+      StandingsPanel(
+        title: r == 2
+            ? 'Bảng xếp hạng Đình thí'
+            : 'Bảng xếp hạng sau ${kRoundNames[r]}',
+        round: r,
+        rows: _rows,
+        passedCount: _passedCount,
+        participantCount: _roundTotal,
+      ),
+    );
 
     children.add(const SizedBox(height: 20));
     children.add(

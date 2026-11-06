@@ -148,6 +148,18 @@ class _ResultScreenState extends State<ResultScreen> {
             textAlign: TextAlign.center,
             style: serif(size: 17, color: AppColors.inkSoft),
           ),
+          if (widget.session.fallenTitle != null) ...<Widget>[
+            const SizedBox(height: 6),
+            Text(
+              'Danh xưng: ${widget.session.fallenTitle}',
+              textAlign: TextAlign.center,
+              style: serif(
+                size: 18,
+                weight: FontWeight.w900,
+                color: AppColors.goldDark,
+              ),
+            ),
+          ],
         ],
       ),
     );

@@ -28,6 +28,15 @@ const List<String> kLevelNames = <String>['Dễ', 'Trung bình', 'Khó'];
 const List<String> kPodiumTitles = <String>['Trạng Nguyên', 'Bảng Nhãn', 'Thám Hoa'];
 const List<String> kPodiumKeys = <String>['trangnguyen', 'bangnhan', 'thamhoa'];
 
+/// Danh xưng thời xưa cho người dừng bước giữa chừng.
+/// - Đỗ Hương thí, rớt Hội thí: Cử Nhân (thời Lê gọi là Hương Cống).
+/// - Đỗ Hội thí, rớt Đình thí: Phó Bảng (triều Nguyễn, đỗ Hội nhưng chưa vào hàng Tiến sĩ).
+const String kTitleCuNhan = 'Cử Nhân';
+const String kTitlePhoBang = 'Phó Bảng';
+
+/// Số hàng hiển thị trên bảng xếp hạng.
+const int kBoardSize = 10;
+
 // ---- Độ mạnh của bot (đã chỉnh bằng mô phỏng) ----
 // Mỗi ván khoảng 6 bot qua Hương, 3-4 bot qua Hội, 2 bot qua Đình.
 const List<double> kBotLevelShift = <double>[0.0, -0.14, -0.30];
@@ -200,6 +209,23 @@ RoundTally _simulateBotRound(Competitor bot, int round, Random rnd) {
   return tally;
 }
 
+/// Một dòng trên bảng xếp hạng.
+class StandingRow {
+  final Competitor who;
+  final int rank;
+  final int roundScore; // điểm riêng kỳ vừa thi
+  final int cumulative; // tổng điểm từ kỳ đầu đến kỳ này
+  final int? change; // > 0 lên hạng, < 0 xuống hạng, null nếu chưa có mốc so sánh
+
+  const StandingRow({
+    required this.who,
+    required this.rank,
+    required this.roundScore,
+    required this.cumulative,
+    required this.change,
+  });
+}
+
 // ============================================================
 //  Một khoa thi
 // ============================================================
@@ -332,6 +358,124 @@ class GameSession {
       return a.id.compareTo(b.id);
     });
     return list;
+  }
+
+  // ---- Bảng xếp hạng sau mỗi kỳ thi ----
+
+  /// Tổng điểm của [c] từ kỳ đầu đến hết kỳ [r].
+  int _scoreUpTo(Competitor c, int r) {
+    int s = 0;
+    for (int i = 0; i <= r; i++) {
+      s += c.rounds[i]?.score ?? 0;
+    }
+    return s;
+  }
+
+  /// Tổng số khắc đã dùng từ kỳ đầu đến hết kỳ [r].
+  int _khacUpTo(Competitor c, int r) {
+    int k = 0;
+    for (int i = 0; i <= r; i++) {
+      k += c.rounds[i]?.totalKhac ?? 0;
+    }
+    return k;
+  }
+
+  /// Xếp theo tổng điểm đến hết kỳ r; bằng nhau thì ai dùng ít thời gian hơn.
+  int _byCumulative(int r, Competitor a, Competitor b) {
+    final int sa = _scoreUpTo(a, r);
+    final int sb = _scoreUpTo(b, r);
+    if (sa != sb) {
+      return sb.compareTo(sa);
+    }
+    final int ka = _khacUpTo(a, r);
+    final int kb = _khacUpTo(b, r);
+    if (ka != kb) {
+      return ka.compareTo(kb);
+    }
+    return a.id.compareTo(b.id);
+  }
+
+  /// Xếp theo luật bảng vàng ở Đình thí: điểm Đình, rồi tổng điểm 3 kỳ, rồi thời gian.
+  int _byDinh(Competitor a, Competitor b) {
+    final RoundTally x = a.rounds[2]!;
+    final RoundTally y = b.rounds[2]!;
+    if (x.score != y.score) {
+      return y.score.compareTo(x.score);
+    }
+    if (a.totalScore != b.totalScore) {
+      return b.totalScore.compareTo(a.totalScore);
+    }
+    if (a.totalKhac != b.totalKhac) {
+      return a.totalKhac.compareTo(b.totalKhac);
+    }
+    return a.id.compareTo(b.id);
+  }
+
+  /// Số sĩ tử đạt (đủ số câu đúng) ở kỳ r.
+  int passedInRound(int r) =>
+      everyone.where((Competitor c) => c.passedRound(r)).length;
+
+  /// Bảng xếp hạng những người dự kỳ r.
+  /// - Hương, Hội: xếp theo TỔNG điểm tích lũy; hạng đổi so với trước kỳ này
+  ///   (chỉ so giữa những người cùng dự kỳ này nên chỉ phản ánh phần thi vừa xong).
+  /// - Đình: xếp đúng theo luật bảng vàng (người đủ 6/12 xếp trước, rồi tới
+  ///   người chưa đủ); hạng đổi so với bảng tổng điểm sau Hội thí.
+  List<StandingRow> standings(int r) {
+    final List<Competitor> inRound =
+        everyone.where((Competitor c) => c.rounds[r] != null).toList();
+
+    final Map<int, int> prevRank = <int, int>{};
+    if (r > 0) {
+      final List<Competitor> before = List<Competitor>.of(inRound);
+      before.sort((Competitor a, Competitor b) => _byCumulative(r - 1, a, b));
+      for (int i = 0; i < before.length; i++) {
+        prevRank[before[i].id] = i + 1;
+      }
+    }
+
+    final List<Competitor> ordered;
+    if (r < 2) {
+      ordered = List<Competitor>.of(inRound);
+      ordered.sort((Competitor a, Competitor b) => _byCumulative(r, a, b));
+    } else {
+      final List<Competitor> passed =
+          inRound.where((Competitor c) => c.passedRound(2)).toList();
+      final List<Competitor> rest =
+          inRound.where((Competitor c) => !c.passedRound(2)).toList();
+      passed.sort(_byDinh);
+      rest.sort(_byDinh);
+      ordered = <Competitor>[...passed, ...rest];
+    }
+
+    final List<StandingRow> rows = <StandingRow>[];
+    for (int i = 0; i < ordered.length; i++) {
+      final Competitor c = ordered[i];
+      final int rank = i + 1;
+      final int? before = prevRank[c.id];
+      rows.add(
+        StandingRow(
+          who: c,
+          rank: rank,
+          roundScore: c.rounds[r]!.score,
+          cumulative: _scoreUpTo(c, r),
+          change: before == null ? null : before - rank,
+        ),
+      );
+    }
+    return rows;
+  }
+
+  /// Danh xưng thời xưa cho người đã đỗ nhưng dừng bước ở kỳ sau.
+  /// Chỉ người đỗ Hương mà rớt Hội, hoặc đỗ Hội mà rớt Đình mới có.
+  String? get fallenTitle {
+    switch (outcome) {
+      case Outcome.failHoi:
+        return kTitleCuNhan;
+      case Outcome.failDinh:
+        return kTitlePhoBang;
+      default:
+        return null;
+    }
   }
 
   Outcome get outcome {
