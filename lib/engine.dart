@@ -233,7 +233,7 @@ enum Outcome {
   failHuong,
   failHoi,
   failDinh,
-  tuTai,
+  hoangGiap,
   thamHoa,
   bangNhan,
   trangNguyen,
@@ -498,6 +498,6 @@ class GameSession {
     if (rank == 2) {
       return Outcome.thamHoa;
     }
-    return Outcome.tuTai;
+    return Outcome.hoangGiap;
   }
 }

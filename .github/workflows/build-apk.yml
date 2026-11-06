@@ -3,6 +3,9 @@ name: Build APK
 on:
   push:
     branches: [main, master]
+    paths-ignore:
+      - '**.md'
+      - 'LICENSE'
   workflow_dispatch:
 
 permissions:
@@ -37,12 +40,21 @@ jobs:
             rm -rf test
           fi
           sed -i 's|android:label="[^"]*"|android:label="Đường Tới Trạng Nguyên"|' android/app/src/main/AndroidManifest.xml
+          # Quyền mạng (chỉ để kiểm tra bản cập nhật), bản release mặc định không có.
+          if ! grep -q 'android.permission.INTERNET' android/app/src/main/AndroidManifest.xml; then
+            sed -i 's|<application|<uses-permission android:name="android.permission.INTERNET"/>\n    <application|' android/app/src/main/AndroidManifest.xml
+          fi
+
+      - name: Dùng khóa ký cố định (để cài đè được lên bản cũ)
+        run: |
+          mkdir -p ~/.android
+          cp keystore/debug.keystore ~/.android/debug.keystore
 
       - name: Tải thư viện
         run: flutter pub get
 
       - name: Build APK
-        run: flutter build apk --release
+        run: flutter build apk --release --build-number=${{ github.run_number }} --dart-define=BUILD_NUMBER=${{ github.run_number }}
 
       - name: Đổi tên APK
         run: cp build/app/outputs/flutter-apk/app-release.apk DuongToiTrangNguyen.apk

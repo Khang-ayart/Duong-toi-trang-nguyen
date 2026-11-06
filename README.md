@@ -5,9 +5,9 @@ Game thi cử Hương, Hội, Đình chơi hoàn toàn offline trên Android, c�
 ## Về dự án này
 
 - **Được làm hoàn toàn bằng AI.** Toàn bộ mã nguồn, câu hỏi và lời thoại do AI (Claude của Anthropic) soạn theo ý tưởng và yêu cầu của tác giả.
-- **Miễn phí và offline.** Không quảng cáo, không thu phí, không cần mạng, không thu thập dữ liệu người chơi.
+- **Miễn phí và offline.** Không quảng cáo, không thu phí, chơi không cần mạng, không thu thập dữ liệu người chơi. Mạng chỉ dùng cho một việc tùy chọn: hỏi GitHub xem có bản cập nhật mới không (không gửi dữ liệu gì của người chơi).
 - **Mục đích giải trí và giáo dục.** Đây là trò chơi để vui và ôn kiến thức phổ thông, khoa cử xưa chỉ là bối cảnh.
-- **Không nhằm mục đích thương mại.** Dự án không được tạo ra để kiếm tiền, và giấy phép (xem `LICENSE`) không cho phép dùng lại vào mục đích thương mại.
+- **Tác giả không dùng vào mục đích thương mại.** Dự án không được tạo ra để kiếm tiền. Mã nguồn dùng giấy phép MIT (xem `LICENSE`), người khác được tự do sử dụng theo giấy phép đó.
 - **Về nội dung.** Câu hỏi do AI soạn nên có thể còn sai sót hoặc chưa chính xác tuyệt đối. Nếu phát hiện lỗi, bạn có thể sửa trực tiếp trong `assets/data/questions.json` hoặc mở issue.
 
 ## Luật chơi
@@ -18,7 +18,7 @@ Game thi cử Hương, Hội, Đình chơi hoàn toàn offline trên Android, c�
 | Hội thí | Trung bình | 12 | Đúng từ 8/12 để vào Đình |
 | Đình thí | Khó | 12 | Đúng từ 6/12 mới được xét bảng vàng |
 
-- Ba người điểm Đình cao nhất: Trạng Nguyên, Bảng Nhãn, Thám Hoa. Người còn lại qua Đình là Tú Tài. Có khoa không ai đỗ.
+- Ba người điểm Đình cao nhất: Trạng Nguyên, Bảng Nhãn, Thám Hoa. Người còn lại qua Đình là Hoàng Giáp (Đệ nhị giáp Tiến sĩ). Có khoa không ai đỗ.
 - Bằng điểm Đình thì xét tổng điểm 3 kỳ, rồi tổng thời gian ít hơn.
 - Dừng bước giữa chừng vẫn có danh xưng xưa: đỗ Hương rớt Hội là **Cử Nhân**, đỗ Hội rớt Đình là **Phó Bảng**.
 - Sau mỗi kỳ có bảng xếp hạng top 10 (kèm avatar, điểm vừa cộng, lên/xuống hạng). Nếu bạn ngoài top 10, dòng của bạn hiện ở dưới cùng.
@@ -52,6 +52,12 @@ Thêm một mục vào `questions.json`:
 ## Build APK
 
 Đẩy code lên nhánh `main`, vào tab **Actions**, chạy workflow **Build APK**. File APK nằm trong mục **Artifacts** của lần chạy, và cả trong mục **Releases** để tải thẳng trên điện thoại. Khung Android được workflow tự tạo, không cần commit thư mục `android/`.
+
+## Cập nhật app
+
+Trong app có nút **Kiểm tra cập nhật** (và tự kiểm tra khi mở app nếu có mạng). Có bản mới thì bấm **Tải bản mới**, mở file APK tải về và cài, máy sẽ cài đè lên bản cũ, **không cần gỡ app, không mất dữ liệu**.
+
+Để cài đè được, mọi bản build phải ký cùng một khóa và có số bản tăng dần. Vì vậy workflow dùng khóa cố định `keystore/debug.keystore` (đây là khóa của game giải trí, công khai trong repo, không dùng cho mục đích bảo mật) và đặt số bản bằng số lần chạy workflow.
 
 ## Chưa có
 

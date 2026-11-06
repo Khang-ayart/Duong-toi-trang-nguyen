@@ -27,7 +27,7 @@ class ResultScreen extends StatefulWidget {
 class _ResultScreenState extends State<ResultScreen> {
   late final Outcome _outcome;
   late final List<_Laureate> _podium;
-  late final List<Competitor> _tuTai;
+  late final List<Competitor> _hoangGiap;
   late final String _personal;
   late final String _noWinner;
 
@@ -51,7 +51,7 @@ class _ResultScreenState extends State<ResultScreen> {
       );
     }
     _podium = podium;
-    _tuTai = finalists.length > 3 ? finalists.sublist(3) : <Competitor>[];
+    _hoangGiap = finalists.length > 3 ? finalists.sublist(3) : <Competitor>[];
 
     String key = '';
     switch (_outcome) {
@@ -64,8 +64,8 @@ class _ResultScreenState extends State<ResultScreen> {
       case Outcome.failDinh:
         key = 'fail_dinh';
         break;
-      case Outcome.tuTai:
-        key = 'tutai';
+      case Outcome.hoangGiap:
+        key = 'hoanggiap';
         break;
       case Outcome.thamHoa:
       case Outcome.bangNhan:
@@ -86,8 +86,8 @@ class _ResultScreenState extends State<ResultScreen> {
         return 'BẢNG NHÃN';
       case Outcome.thamHoa:
         return 'THÁM HOA';
-      case Outcome.tuTai:
-        return 'TÚ TÀI';
+      case Outcome.hoangGiap:
+        return 'HOÀNG GIÁP';
       case Outcome.failDinh:
         return 'Dừng bước ở Đình thí';
       case Outcome.failHoi:
@@ -118,7 +118,7 @@ class _ResultScreenState extends State<ResultScreen> {
   }
 
   Widget _headlineCard() {
-    final bool good = _outcome == Outcome.tuTai || _isLaureate;
+    final bool good = _outcome == Outcome.hoangGiap || _isLaureate;
     final Color color = _isLaureate
         ? AppColors.gold
         : (good ? AppColors.green : AppColors.inkSoft);
@@ -343,14 +343,14 @@ class _ResultScreenState extends State<ResultScreen> {
       for (final _Laureate l in _podium) {
         children.add(_laureateCard(l));
       }
-      if (_tuTai.isNotEmpty) {
-        final String names = _tuTai
+      if (_hoangGiap.isNotEmpty) {
+        final String names = _hoangGiap
             .map((Competitor c) => c.isPlayer ? '${c.name} (bạn)' : c.name)
             .join(', ');
         children.add(
           Panel(
             child: Text(
-              'Tú Tài (${_tuTai.length} vị): $names',
+              'Hoàng Giáp (${_hoangGiap.length} vị): $names',
               style: const TextStyle(fontSize: 14.5, height: 1.4),
             ),
           ),

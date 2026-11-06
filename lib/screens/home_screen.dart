@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 import '../data.dart';
 import '../engine.dart';
 import '../theme.dart';
+import '../updater.dart';
 import '../widgets.dart';
 import 'game_screen.dart';
 
@@ -17,11 +19,13 @@ class _HomeScreenState extends State<HomeScreen> {
   final TextEditingController _name = TextEditingController(text: 'Sĩ tử');
   GameData? _data;
   String? _error;
+  bool _checking = false;
 
   @override
   void initState() {
     super.initState();
     _load();
+    _checkUpdate(silent: true);
   }
 
   @override
@@ -43,6 +47,70 @@ class _HomeScreenState extends State<HomeScreen> {
       }
       setState(() => _error = e.toString());
     }
+  }
+
+  /// Kiểm tra bản mới. silent = true (lúc mở app): không có mạng hay đã mới nhất thì im lặng.
+  Future<void> _checkUpdate({required bool silent}) async {
+    if (_checking) {
+      return;
+    }
+    setState(() => _checking = true);
+    UpdateInfo? info;
+    bool failed = false;
+    try {
+      info = await checkForUpdate();
+    } catch (_) {
+      failed = true;
+    }
+    if (!mounted) {
+      return;
+    }
+    setState(() => _checking = false);
+
+    if (info != null) {
+      _showUpdateDialog(info);
+    } else if (!silent) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          content: Text(
+            failed
+                ? 'Không kết nối được để kiểm tra. Hãy bật mạng rồi thử lại.'
+                : 'Bạn đang dùng bản mới nhất.',
+          ),
+        ),
+      );
+    }
+  }
+
+  void _showUpdateDialog(UpdateInfo info) {
+    showDialog<void>(
+      context: context,
+      builder: (BuildContext ctx) => AlertDialog(
+        title: const Text('Có bản cập nhật mới'),
+        content: Text(
+          'Bản ${info.build} đã có (bạn đang dùng bản $kBuildNumber).\n\n'
+          'Bấm "Tải bản mới", tải xong mở file để cài. '
+          'Máy sẽ cài đè lên bản cũ, không cần gỡ app và không mất gì.',
+          style: const TextStyle(fontSize: 15, height: 1.4),
+        ),
+        actions: <Widget>[
+          TextButton(
+            onPressed: () => Navigator.of(ctx).pop(),
+            child: const Text('Để sau'),
+          ),
+          FilledButton(
+            onPressed: () {
+              Navigator.of(ctx).pop();
+              launchUrl(
+                Uri.parse(info.apkUrl),
+                mode: LaunchMode.externalApplication,
+              );
+            },
+            child: const Text('Tải bản mới'),
+          ),
+        ],
+      ),
+    );
   }
 
   void _start() {
@@ -79,7 +147,7 @@ class _HomeScreenState extends State<HomeScreen> {
             'Hội thí: 12 câu trung bình. Đúng từ ${kPassMark[1]}/12 trở lên mới được vào Đình thí.\n\n'
             'Đình thí: 12 câu khó. Đúng từ ${kPassMark[2]}/12 trở lên mới được xét bảng vàng: '
             'ba người điểm cao nhất là Trạng Nguyên, Bảng Nhãn, Thám Hoa. '
-            'Những người còn lại qua Đình thí là Tú Tài. Có khoa không ai đỗ.\n\n'
+            'Những người còn lại qua Đình thí là Hoàng Giáp. Có khoa không ai đỗ.\n\n'
             'Mỗi câu 30 giây, tối đa 300 điểm. Cứ mỗi 0,1 giây trôi qua trừ 1 điểm, '
             'trả lời càng nhanh điểm càng cao.\n\n'
             'Chuỗi: trả lời đúng liên tiếp, mỗi câu trong vòng 5 giây thì giữ chuỗi. '
@@ -182,6 +250,19 @@ class _HomeScreenState extends State<HomeScreen> {
       TextButton(
         onPressed: _showRules,
         child: const Text('Thể lệ khoa thi'),
+      ),
+    );
+    children.add(
+      TextButton(
+        onPressed: _checking ? null : () => _checkUpdate(silent: false),
+        child: Text(_checking ? 'Đang kiểm tra...' : 'Kiểm tra cập nhật'),
+      ),
+    );
+    children.add(
+      Text(
+        'Phiên bản $kBuildNumber',
+        textAlign: TextAlign.center,
+        style: const TextStyle(fontSize: 12, color: AppColors.inkSoft),
       ),
     );
 

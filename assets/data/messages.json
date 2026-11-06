@@ -47,13 +47,6 @@
     "Đình thí chưa chọn được tên {ten} lần này, nhưng cả triều đình đều khen ngợi chí khí của sĩ tử.",
     "Đường công danh lắm gian truân, nhưng người đã đi tới tận Đình thí thì chẳng còn xa ngày vinh quy bái tổ."
   ],
-  "tutai": [
-    "Mười năm đèn sách, nay bảng vàng cũng đề tên. Công danh chưa phải đỉnh cao, nhưng chí sĩ tử đã khiến triều đình nể trọng. Chúc mừng Tú Tài {ten}!",
-    "Bao năm sôi kinh nấu sử, hôm nay {ten} nghe tên mình xướng giữa sân rồng. Tú Tài đề danh, làng xóm đều vui mừng!",
-    "Công đèn sách không phụ lòng người. Tú Tài {ten} được triều đình ghi danh, dòng họ rạng rỡ, quê nhà hãnh diện.",
-    "Vượt qua ba kỳ thi gian khó, {ten} xứng đáng với danh hiệu Tú Tài. Hãy tiếp tục dùi mài, khoa sau biết đâu bảng vàng đề tên bậc cao hơn.",
-    "Sau bao năm cố gắng, bảng vàng cuối cùng cũng đề tên {ten}. Tú Tài thật đáng nể, xin chúc mừng!"
-  ],
   "thamhoa": [
     "Phụng thiên thừa vận Hoàng đế, chiếu viết: {ten} tài hoa lỗi lạc, nay đỗ Đệ nhất giáp Tiến sĩ cập đệ, đệ tam danh Thám Hoa! Bảng vàng đề tên, rạng rỡ tổ tông. Khâm thử!",
     "Phụng thiên thừa vận Hoàng đế, chiếu viết: Văn chương {ten} tươi thắm như hoa xuân, nay đỗ Đệ nhất giáp Tiến sĩ cập đệ, đệ tam danh Thám Hoa! Ban mũ áo cân đai, vinh quy bái tổ. Khâm thử!",
@@ -87,5 +80,12 @@
     "Triều đình ban danh xưng Phó Bảng cho {ten}: đã trúng Hội thí, chỉ còn cách hàng Tiến sĩ một bước. Tiếng tăm vang khắp kinh kỳ.",
     "Đình thí chưa chọn được tên {ten} vào hàng Tiến sĩ, nhưng Hội thí trúng cách là bậc tài hiếm có. Triều Nguyễn gọi bậc này là Phó Bảng.",
     "Phó Bảng {ten}! Qua Hội thí giữa muôn người, danh tiếng đã vượt xa đồng môn, chỉ tiếc bảng vàng chưa kịp đề tên."
+  ],
+  "hoanggiap": [
+    "Mười năm đèn sách, nay bảng vàng đã đề tên. Đệ nhị giáp Tiến sĩ xuất thân, danh hiệu Hoàng Giáp thật rạng rỡ. Triều đình chúc mừng {ten}!",
+    "Bao năm sôi kinh nấu sử, hôm nay {ten} nghe tên mình xướng giữa sân rồng. Hoàng Giáp đề danh, làng xóm đều vui mừng!",
+    "Công đèn sách không phụ lòng người. Hoàng Giáp {ten} được triều đình ghi danh, dòng họ rạng rỡ, quê nhà hãnh diện.",
+    "Vượt qua ba kỳ thi gian khó, {ten} xứng đáng với danh hiệu Hoàng Giáp. Hãy tiếp tục dùi mài, khoa sau biết đâu đứng đầu bảng vàng.",
+    "Sau bao năm cố gắng, bảng vàng cuối cùng cũng đề tên {ten}. Hoàng Giáp thật đáng nể, xin chúc mừng!"
   ]
 }
