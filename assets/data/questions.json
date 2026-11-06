@@ -1,0 +1,782 @@
+[
+  {
+    "id": "h01",
+    "level": 0,
+    "topic": "Lịch sử",
+    "q": "Năm 1010, vị vua nào dời đô từ Hoa Lư ra Thăng Long?",
+    "options": [
+      "Lê Đại Hành",
+      "Trần Thái Tông",
+      "Đinh Tiên Hoàng",
+      "Lý Thái Tổ"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "h02",
+    "level": 0,
+    "topic": "Địa lý",
+    "q": "Thủ đô của Nhật Bản là thành phố nào?",
+    "options": [
+      "Tokyo",
+      "Seoul",
+      "Kyoto",
+      "Osaka"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "h03",
+    "level": 0,
+    "topic": "Toán học",
+    "q": "12 × 12 bằng bao nhiêu?",
+    "options": [
+      "144",
+      "124",
+      "132",
+      "148"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "h04",
+    "level": 0,
+    "topic": "Văn học",
+    "q": "Tác giả của \"Truyện Kiều\" là ai?",
+    "options": [
+      "Nguyễn Khuyến",
+      "Hồ Xuân Hương",
+      "Nguyễn Du",
+      "Nguyễn Trãi"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "h05",
+    "level": 0,
+    "topic": "Thiên văn",
+    "q": "Hành tinh nào gần Mặt Trời nhất?",
+    "options": [
+      "Sao Hỏa",
+      "Trái Đất",
+      "Sao Kim",
+      "Sao Thủy"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "h06",
+    "level": 0,
+    "topic": "Địa lý",
+    "q": "Đỉnh Fansipan, \"nóc nhà Đông Dương\", thuộc dãy núi nào?",
+    "options": [
+      "Tam Đảo",
+      "Trường Sơn",
+      "Hoàng Liên Sơn",
+      "Bạch Mã"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "h07",
+    "level": 0,
+    "topic": "Văn học",
+    "q": "Tác phẩm \"Dế Mèn phiêu lưu ký\" là của nhà văn nào?",
+    "options": [
+      "Nguyên Hồng",
+      "Nam Cao",
+      "Tô Hoài",
+      "Ngô Tất Tố"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "h08",
+    "level": 0,
+    "topic": "Khoa học",
+    "q": "Ở điều kiện thường (áp suất 1 atm), nước sôi ở bao nhiêu độ C?",
+    "options": [
+      "100 độ C",
+      "120 độ C",
+      "90 độ C",
+      "80 độ C"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "h09",
+    "level": 0,
+    "topic": "Văn hóa",
+    "q": "Tết Nguyên Đán bắt đầu từ mùng một tháng nào của âm lịch?",
+    "options": [
+      "Tháng Chạp",
+      "Tháng Giêng",
+      "Tháng Hai",
+      "Tháng Mười một"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "h10",
+    "level": 0,
+    "topic": "Lịch sử",
+    "q": "Ai là người đọc Tuyên ngôn Độc lập ngày 2/9/1945 tại Quảng trường Ba Đình?",
+    "options": [
+      "Phạm Văn Đồng",
+      "Võ Nguyên Giáp",
+      "Hồ Chí Minh",
+      "Trường Chinh"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "h11",
+    "level": 0,
+    "topic": "Toán học",
+    "q": "Tổng ba góc trong của một tam giác bằng bao nhiêu độ?",
+    "options": [
+      "360 độ",
+      "180 độ",
+      "90 độ",
+      "270 độ"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "h12",
+    "level": 0,
+    "topic": "Địa lý",
+    "q": "Châu lục nào có diện tích lớn nhất thế giới?",
+    "options": [
+      "Châu Âu",
+      "Châu Phi",
+      "Châu Á",
+      "Châu Mỹ"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "h13",
+    "level": 0,
+    "topic": "Lịch sử",
+    "q": "Hai Bà Trưng khởi nghĩa để chống lại ách đô hộ của triều đại nào?",
+    "options": [
+      "Nhà Hán",
+      "Nhà Minh",
+      "Nhà Tống",
+      "Nhà Nguyên"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "h14",
+    "level": 0,
+    "topic": "Khoa học",
+    "q": "Cây xanh hấp thụ khí nào để quang hợp?",
+    "options": [
+      "Khí hiđrô",
+      "Khí nitơ",
+      "Khí ôxi",
+      "Khí cacbonic"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "h15",
+    "level": 0,
+    "topic": "Âm nhạc",
+    "q": "Nhạc cụ dân tộc nào của Việt Nam chỉ có một dây?",
+    "options": [
+      "Đàn nhị",
+      "Đàn nguyệt",
+      "Đàn tranh",
+      "Đàn bầu"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "h16",
+    "level": 0,
+    "topic": "Ngôn ngữ",
+    "q": "Điền vào chỗ trống: \"Ăn quả nhớ kẻ trồng ...\"",
+    "options": [
+      "cây",
+      "hoa",
+      "lúa",
+      "rau"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "h17",
+    "level": 0,
+    "topic": "Đời sống",
+    "q": "Pha màu xanh dương với màu vàng sẽ được màu nào?",
+    "options": [
+      "Xanh lá",
+      "Cam",
+      "Tím",
+      "Nâu"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "h18",
+    "level": 0,
+    "topic": "Địa lý",
+    "q": "Thành phố nào ở Việt Nam được mệnh danh là \"thành phố Hoa phượng đỏ\"?",
+    "options": [
+      "Đà Nẵng",
+      "Huế",
+      "Cần Thơ",
+      "Hải Phòng"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "h19",
+    "level": 0,
+    "topic": "Khoa học",
+    "q": "Cầu vồng thường được mô tả có mấy màu?",
+    "options": [
+      "8 màu",
+      "6 màu",
+      "7 màu",
+      "5 màu"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "h20",
+    "level": 0,
+    "topic": "Văn hóa",
+    "q": "Món bánh nào gói bằng lá dong, là món truyền thống ngày Tết ở miền Bắc?",
+    "options": [
+      "Bánh cuốn",
+      "Bánh chưng",
+      "Bánh xèo",
+      "Bánh bao"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "m01",
+    "level": 1,
+    "topic": "Lịch sử",
+    "q": "Chiến thắng Bạch Đằng năm 938 do ai lãnh đạo?",
+    "options": [
+      "Lê Hoàn",
+      "Trần Hưng Đạo",
+      "Ngô Quyền",
+      "Đinh Bộ Lĩnh"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "m02",
+    "level": 1,
+    "topic": "Lịch sử",
+    "q": "Hội nghị Diên Hồng diễn ra dưới triều đại nào?",
+    "options": [
+      "Nhà Trần",
+      "Nhà Lý",
+      "Nhà Lê",
+      "Nhà Nguyễn"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "m03",
+    "level": 1,
+    "topic": "Văn học",
+    "q": "\"Bình Ngô đại cáo\" là tác phẩm của ai?",
+    "options": [
+      "Nguyễn Trãi",
+      "Lý Thường Kiệt",
+      "Lê Thánh Tông",
+      "Trần Hưng Đạo"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "m04",
+    "level": 1,
+    "topic": "Địa lý",
+    "q": "Quốc gia nào có diện tích lớn nhất thế giới?",
+    "options": [
+      "Nga",
+      "Canada",
+      "Hoa Kỳ",
+      "Trung Quốc"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "m05",
+    "level": 1,
+    "topic": "Toán học",
+    "q": "Căn bậc hai của 169 là bao nhiêu?",
+    "options": [
+      "14",
+      "13",
+      "12",
+      "15"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "m06",
+    "level": 1,
+    "topic": "Hóa học",
+    "q": "Nguyên tố hóa học có ký hiệu Fe là gì?",
+    "options": [
+      "Kẽm",
+      "Sắt",
+      "Flo",
+      "Đồng"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "m07",
+    "level": 1,
+    "topic": "Vật lý",
+    "q": "Đơn vị đo lực trong hệ SI là gì?",
+    "options": [
+      "Oát",
+      "Jun",
+      "Pascal",
+      "Niutơn"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "m08",
+    "level": 1,
+    "topic": "Văn hóa",
+    "q": "Dân ca Quan họ gắn liền với vùng đất nào?",
+    "options": [
+      "Huế",
+      "Bắc Ninh",
+      "Nghệ An",
+      "Quảng Nam"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "m09",
+    "level": 1,
+    "topic": "Địa lý",
+    "q": "Cố đô Huế nằm bên dòng sông nào?",
+    "options": [
+      "Sông Hương",
+      "Sông Hàn",
+      "Sông Mã",
+      "Sông Đà"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "m10",
+    "level": 1,
+    "topic": "Lịch sử",
+    "q": "Cách mạng Pháp bùng nổ vào năm nào?",
+    "options": [
+      "1789",
+      "1776",
+      "1804",
+      "1815"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "m11",
+    "level": 1,
+    "topic": "Ngôn ngữ",
+    "q": "Từ Hán Việt \"sơn hà\" có nghĩa là gì?",
+    "options": [
+      "Trời đất",
+      "Núi sông",
+      "Mặt trời mặt trăng",
+      "Gió mây"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "m12",
+    "level": 1,
+    "topic": "Ngôn ngữ",
+    "q": "Thành ngữ \"Ếch ngồi đáy giếng\" chỉ người như thế nào?",
+    "options": [
+      "Hiểu biết hạn hẹp mà tưởng mình giỏi",
+      "Làm việc cẩn thận, tỉ mỉ",
+      "Sống thanh nhàn, ung dung",
+      "Hay sợ hãi, nhút nhát"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "m13",
+    "level": 1,
+    "topic": "Toán học",
+    "q": "Số nguyên tố nhỏ nhất là số nào?",
+    "options": [
+      "3",
+      "1",
+      "0",
+      "2"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "m14",
+    "level": 1,
+    "topic": "Sinh học",
+    "q": "Ở sinh vật nhân thực, ADN chủ yếu nằm ở đâu trong tế bào?",
+    "options": [
+      "Lục lạp",
+      "Ti thể",
+      "Nhân tế bào",
+      "Không bào"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "m15",
+    "level": 1,
+    "topic": "Văn học",
+    "q": "Tiểu thuyết \"Những người khốn khổ\" là của nhà văn nào?",
+    "options": [
+      "Alexandre Dumas",
+      "Honoré de Balzac",
+      "Victor Hugo",
+      "Molière"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "m16",
+    "level": 1,
+    "topic": "Lịch sử",
+    "q": "Chiến dịch Điện Biên Phủ kết thúc thắng lợi vào năm nào?",
+    "options": [
+      "1968",
+      "1954",
+      "1945",
+      "1975"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "m17",
+    "level": 1,
+    "topic": "Địa lý",
+    "q": "Kênh đào Suez nối hai vùng biển nào?",
+    "options": [
+      "Địa Trung Hải và Biển Đỏ",
+      "Biển Bắc và Biển Baltic",
+      "Đại Tây Dương và Thái Bình Dương",
+      "Biển Đen và Biển Caspi"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "m18",
+    "level": 1,
+    "topic": "Âm nhạc",
+    "q": "Nhạc sĩ nào sáng tác bài \"Tiến quân ca\", quốc ca của Việt Nam?",
+    "options": [
+      "Hoàng Việt",
+      "Văn Cao",
+      "Trịnh Công Sơn",
+      "Phạm Tuyên"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "m19",
+    "level": 1,
+    "topic": "Vật lý",
+    "q": "Trong các môi trường sau, âm thanh truyền nhanh nhất qua môi trường nào?",
+    "options": [
+      "Nước",
+      "Không khí",
+      "Chân không",
+      "Thép"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "m20",
+    "level": 1,
+    "topic": "Thể thao",
+    "q": "Thế vận hội Olympic hiện đại lần đầu được tổ chức năm 1896 tại thành phố nào?",
+    "options": [
+      "Paris",
+      "Rome",
+      "London",
+      "Athens"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "d01",
+    "level": 2,
+    "topic": "Đố mẹo",
+    "q": "Trong giỏ có 3 quả táo, bạn lấy đi 2 quả. Bạn đang cầm bao nhiêu quả táo?",
+    "options": [
+      "5 quả",
+      "3 quả",
+      "2 quả",
+      "1 quả"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "d02",
+    "level": 2,
+    "topic": "Logic",
+    "q": "Nếu 5 máy làm xong 5 sản phẩm trong 5 phút, thì 100 máy làm xong 100 sản phẩm trong bao lâu?",
+    "options": [
+      "5 phút",
+      "100 phút",
+      "1 phút",
+      "20 phút"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "d03",
+    "level": 2,
+    "topic": "Toán đố",
+    "q": "Cây bút và quyển vở giá tổng cộng 11.000 đồng. Quyển vở đắt hơn cây bút đúng 10.000 đồng. Cây bút giá bao nhiêu?",
+    "options": [
+      "1.500 đồng",
+      "2.000 đồng",
+      "500 đồng",
+      "1.000 đồng"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "d04",
+    "level": 2,
+    "topic": "Chính tả",
+    "q": "Từ nào dưới đây viết đúng chính tả?",
+    "options": [
+      "sơ xuất",
+      "sơ suất",
+      "xơ suất",
+      "xơ xuất"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "d05",
+    "level": 2,
+    "topic": "Hình học",
+    "q": "Một người đi về hướng Bắc 3 km, rồi rẽ phải đi thêm 4 km. Khoảng cách đường thẳng từ chỗ đó về điểm xuất phát là bao nhiêu?",
+    "options": [
+      "1 km",
+      "5 km",
+      "6 km",
+      "7 km"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "d06",
+    "level": 2,
+    "topic": "Đố mẹo",
+    "q": "Trong một năm dương lịch, có bao nhiêu tháng có ít nhất 28 ngày?",
+    "options": [
+      "11 tháng",
+      "1 tháng",
+      "12 tháng",
+      "2 tháng"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "d07",
+    "level": 2,
+    "topic": "Suy luận",
+    "q": "Mẹ của Mai có ba người con tên là Xuân, Hạ và ...?",
+    "options": [
+      "Đông",
+      "Tết",
+      "Mai",
+      "Thu"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "d08",
+    "level": 2,
+    "topic": "Dãy số",
+    "q": "Số tiếp theo của dãy 2, 3, 5, 7, 11, 13 là số nào?",
+    "options": [
+      "19",
+      "17",
+      "15",
+      "21"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "d09",
+    "level": 2,
+    "topic": "Đố mẹo",
+    "q": "Cái gì càng lấy đi nhiều thì càng to ra?",
+    "options": [
+      "Đống cát",
+      "Cái hố",
+      "Ngọn nến",
+      "Cái bánh"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "d10",
+    "level": 2,
+    "topic": "Logic",
+    "q": "Chiếc đồng hồ gõ 3 tiếng mất 6 giây (tính từ tiếng đầu đến tiếng cuối). Vậy gõ 6 tiếng mất bao lâu?",
+    "options": [
+      "18 giây",
+      "9 giây",
+      "12 giây",
+      "15 giây"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "d11",
+    "level": 2,
+    "topic": "Lịch",
+    "q": "Năm nào sau đây là năm nhuận?",
+    "options": [
+      "2200",
+      "2100",
+      "1900",
+      "2000"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "d12",
+    "level": 2,
+    "topic": "Địa lý",
+    "q": "Quốc gia nào sau đây KHÔNG có đường bờ biển?",
+    "options": [
+      "Thái Lan",
+      "Campuchia",
+      "Việt Nam",
+      "Lào"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "d13",
+    "level": 2,
+    "topic": "Văn học",
+    "q": "Trong \"Truyện Kiều\", người em trai của Thúy Kiều tên là gì?",
+    "options": [
+      "Vương Quan",
+      "Kim Trọng",
+      "Từ Hải",
+      "Thúc Sinh"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "d14",
+    "level": 2,
+    "topic": "Tính nhẩm",
+    "q": "Kết quả của phép tính 25 × 4 × 7 × 0 × 99 là bao nhiêu?",
+    "options": [
+      "7",
+      "0",
+      "700",
+      "99"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "d15",
+    "level": 2,
+    "topic": "Đố mẹo",
+    "q": "Trong cuộc đua chạy, bạn vượt qua người đang về thứ hai. Bây giờ bạn xếp thứ mấy?",
+    "options": [
+      "Thứ ba",
+      "Thứ hai",
+      "Thứ nhất",
+      "Cuối cùng"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "d16",
+    "level": 2,
+    "topic": "Tiếng Việt",
+    "q": "Bảng chữ cái tiếng Việt hiện hành có bao nhiêu chữ cái?",
+    "options": [
+      "30",
+      "29",
+      "28",
+      "26"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "d17",
+    "level": 2,
+    "topic": "Đố mẹo",
+    "q": "Một ngôi nhà có cả bốn mặt đều hướng về phía Nam. Có con gấu đi ngang qua nhà. Gấu đó màu gì?",
+    "options": [
+      "Màu trắng",
+      "Màu nâu",
+      "Màu đen",
+      "Màu xám"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "d18",
+    "level": 2,
+    "topic": "Hán Việt",
+    "q": "Thành ngữ \"Nhất cử lưỡng tiện\" có nghĩa là gì?",
+    "options": [
+      "Một lần đi hai nơi",
+      "Làm một việc mà được hai điều lợi",
+      "Một người làm việc của hai người",
+      "Một việc phải làm hai lần"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "d19",
+    "level": 2,
+    "topic": "Vật lý",
+    "q": "Vì sao nước đá nổi được trên mặt nước lỏng?",
+    "options": [
+      "Vì nước đá có màu sáng hơn",
+      "Vì nước đá lạnh hơn nước lỏng",
+      "Vì nước đá có độ nhớt lớn hơn",
+      "Vì nước đá có khối lượng riêng nhỏ hơn nước lỏng"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "d20",
+    "level": 2,
+    "topic": "Thiên văn",
+    "q": "Ở Bắc bán cầu, ngày có thời gian ban ngày dài nhất trong năm rơi vào dịp nào?",
+    "options": [
+      "Xuân phân",
+      "Thu phân",
+      "Đông chí",
+      "Hạ chí"
+    ],
+    "answer": 3
+  }
+]

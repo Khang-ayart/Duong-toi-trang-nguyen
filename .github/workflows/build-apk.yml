@@ -1,0 +1,61 @@
+name: Build APK
+
+on:
+  push:
+    branches: [main, master]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Lấy mã nguồn
+        uses: actions/checkout@v4
+
+      - name: Cài Java 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+
+      - name: Cài Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+          cache: true
+
+      - name: Tạo khung Android nếu repo chưa có
+        run: |
+          if [ ! -d android ]; then
+            mkdir -p /tmp/keep
+            cp -r lib assets pubspec.yaml analysis_options.yaml /tmp/keep/
+            flutter create --platforms=android --org vn.duongtoitrangnguyen --project-name duong_toi_trang_nguyen .
+            cp -rf /tmp/keep/. .
+            rm -rf test
+          fi
+          sed -i 's|android:label="[^"]*"|android:label="Đường Tới Trạng Nguyên"|' android/app/src/main/AndroidManifest.xml
+
+      - name: Tải thư viện
+        run: flutter pub get
+
+      - name: Build APK
+        run: flutter build apk --release
+
+      - name: Đổi tên APK
+        run: cp build/app/outputs/flutter-apk/app-release.apk DuongToiTrangNguyen.apk
+
+      - name: Lưu APK vào Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: DuongToiTrangNguyen-apk
+          path: DuongToiTrangNguyen.apk
+
+      - name: Đăng APK lên mục Releases (tải thẳng trên điện thoại)
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: build-${{ github.run_number }}
+          name: Bản build ${{ github.run_number }}
+          files: DuongToiTrangNguyen.apk

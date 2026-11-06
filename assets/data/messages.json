@@ -1,0 +1,81 @@
+{
+  "intro_huong": [
+    "Trống nổi ba hồi, trường thi Hương khai mở. Mười hai đề đang chờ sĩ tử {ten}, tay nhanh trí sáng ắt được điểm cao.",
+    "Gà vừa gáy sáng, sĩ tử đã tề tựu trước cổng trường Hương. {ten} hãy bình tâm, mài mực, mở lòng ứng thí.",
+    "Hương thí khai trường! Muôn nghìn sĩ tử đổ về, chỉ người đủ tài mới được vào Hội. Chúc {ten} một mạch văn hanh thông."
+  ],
+  "intro_hoi": [
+    "Hội thí tại kinh đô, tứ phương hào kiệt tụ về. Đề thi nay khó hơn, {ten} hãy cẩn trọng từng chữ.",
+    "Qua được Hương thí đã là bậc có tài, nhưng Hội thí mới thử lòng người. Mười hai đề đang chờ {ten} phía trước.",
+    "Kinh thành rộn rã, trống Hội vang trời. Những sĩ tử còn lại đều là kẻ có tài, {ten} chớ khinh suất."
+  ],
+  "intro_dinh": [
+    "Đình thí trước sân rồng, thiên tử đích thân xem bài. Mười hai đề hóc búa, {ten} hãy giữ vững tâm can.",
+    "Chỉ còn một cửa ải cuối cùng. Ai qua được Đình thí, tên ắt ghi bảng vàng. {ten} hãy dốc hết sở học!",
+    "Sân rồng vắng lặng, chỉ nghe tiếng bút lướt trên giấy. Đề Đình thí lắt léo như mê cung, {ten} hãy bình tĩnh."
+  ],
+  "pass_huong": [
+    "Hương thí đã đề tên! {ten} mài sắc bút nghiên, tiến về kinh đô ứng Hội thí.",
+    "Bảng Hương đã niêm yết, tên {ten} sáng rõ giữa nghìn sĩ tử. Mau thu xếp hành trang lên kinh ứng thí.",
+    "Quan trường khen bài của {ten} mạch lạc, văn phong sáng sủa. Hội thí đang chờ phía trước.",
+    "Ngựa đã sẵn, hành lý đã gọn. {ten} nghỉ ngơi một chút rồi lên đường vào Hội thí."
+  ],
+  "pass_hoi": [
+    "Hội thí đã qua! {ten} được triệu vào sân rồng, ứng Đình thí trước mặt thiên tử.",
+    "Tin vui từ bảng Hội: tên {ten} đứng giữa các bậc hào kiệt. Còn một cửa ải cuối cùng là sân rồng.",
+    "Bài văn của {ten} được các quan chủ khảo đồng thanh khen ngợi. Đình thí là bước cuối, chớ lơ là.",
+    "Cửa Hội đã mở, đường lên sân rồng chỉ còn một bước. {ten} hãy giữ vững tâm thế."
+  ],
+  "fail_huong": [
+    "Trường thi gió bụi, sĩ tử {ten} chớ nản lòng. Ba năm sau lại vào trường, bảng vàng chưa phụ người chăm học.",
+    "Hương thí lần này chưa đề tên, nhưng chí lớn há vì một khoa mà lung lay? {ten} hãy giữ vững nghiên bút, đợi khoa sau.",
+    "Đèn khuya chưa cạn, sách vở còn dày. Một lần lỡ bước chẳng phải là hết đường, {ten} cứ yên tâm ôn luyện.",
+    "Ngựa hay cũng có khi sảy vó. Khoa này tạm lỡ, khoa sau ắt có ngày ngựa lên kinh ứng thí.",
+    "Thất bại là mẹ của thành công, cổ nhân vẫn dạy như vậy. {ten} cứ chuẩn bị bút nghiên, ngày vinh quy còn dài."
+  ],
+  "fail_hoi": [
+    "Đường vào Hội đã khó, {ten} bước tới đây đã là bậc có tài. Mài thêm nghiên bút, khoa sau ắt có tên.",
+    "Chỉ thiếu chút nữa là tới sân rồng. Hãy ôn luyện thêm, bảng vàng đang chờ {ten} ở khoa tới!",
+    "Hội thí khắc nghiệt, nhưng {ten} đã chứng tỏ mình không phải hạng tầm thường. Cố lên, chớ bỏ cuộc.",
+    "Rồng còn phải vượt Vũ Môn mới hóa. {ten} đã tới gần cửa ải, chỉ cần thêm một lần nỗ lực nữa.",
+    "Tài năng đã lộ, chỉ còn thiếu chút may mắn và chuyên cần. Triều đình mong {ten} sớm trở lại ứng thí."
+  ],
+  "fail_dinh": [
+    "Chỉ cách sân rồng một bước. Thánh thượng tiếc thay, mong khanh chớ ngả lòng.",
+    "Đình thí là cửa ải cuối cùng, {ten} đã đi gần hết con đường gian nan. Khoa sau, bảng vàng ắt không phụ.",
+    "Vào được tới sân rồng đã là vinh dự lớn. Hãy trau dồi thêm, thiên hạ đang đợi tên {ten} trên bảng vàng.",
+    "Đình thí chưa chọn được tên {ten} lần này, nhưng cả triều đình đều khen ngợi chí khí của sĩ tử.",
+    "Đường công danh lắm gian truân, nhưng người đã đi tới tận Đình thí thì chẳng còn xa ngày vinh quy bái tổ."
+  ],
+  "tutai": [
+    "Mười năm đèn sách, nay bảng vàng cũng đề tên. Công danh chưa phải đỉnh cao, nhưng chí sĩ tử đã khiến triều đình nể trọng. Chúc mừng Tú Tài {ten}!",
+    "Bao năm sôi kinh nấu sử, hôm nay {ten} nghe tên mình xướng giữa sân rồng. Tú Tài đề danh, làng xóm đều vui mừng!",
+    "Công đèn sách không phụ lòng người. Tú Tài {ten} được triều đình ghi danh, dòng họ rạng rỡ, quê nhà hãnh diện.",
+    "Vượt qua ba kỳ thi gian khó, {ten} xứng đáng với danh hiệu Tú Tài. Hãy tiếp tục dùi mài, khoa sau biết đâu bảng vàng đề tên bậc cao hơn.",
+    "Sau bao năm cố gắng, bảng vàng cuối cùng cũng đề tên {ten}. Tú Tài thật đáng nể, xin chúc mừng!"
+  ],
+  "thamhoa": [
+    "Phụng thiên thừa vận Hoàng đế, chiếu viết: {ten} tài hoa lỗi lạc, nay đỗ Đệ nhất giáp Tiến sĩ cập đệ, đệ tam danh Thám Hoa! Bảng vàng đề tên, rạng rỡ tổ tông. Khâm thử!",
+    "Phụng thiên thừa vận Hoàng đế, chiếu viết: Văn chương {ten} tươi thắm như hoa xuân, nay đỗ Đệ nhất giáp Tiến sĩ cập đệ, đệ tam danh Thám Hoa! Ban mũ áo cân đai, vinh quy bái tổ. Khâm thử!",
+    "Phụng thiên thừa vận Hoàng đế, chiếu viết: {ten} chữ đẹp văn hay, khiến cả triều đình trầm trồ, nay đỗ Đệ nhất giáp Tiến sĩ cập đệ, đệ tam danh Thám Hoa! Ban yến Quỳnh Lâm, danh thơm muôn thuở. Khâm thử!",
+    "Phụng thiên thừa vận Hoàng đế, chiếu viết: Nét bút {ten} như hoa nở giữa sân rồng, nay đỗ Đệ nhất giáp Tiến sĩ cập đệ, đệ tam danh Thám Hoa! Quê hương hãnh diện, tổ tông rạng danh. Khâm thử!"
+  ],
+  "bangnhan": [
+    "Phụng thiên thừa vận Hoàng đế, chiếu viết: {ten} học vấn uyên thâm, nay đỗ Đệ nhất giáp Tiến sĩ cập đệ, đệ nhị danh Bảng Nhãn! Ban mũ áo cân đai, vinh quy bái tổ, rạng rỡ tổ tông. Khâm thử!",
+    "Phụng thiên thừa vận Hoàng đế, chiếu viết: Bài thi của {ten} sáng như sao Khuê, nay đỗ Đệ nhất giáp Tiến sĩ cập đệ, đệ nhị danh Bảng Nhãn! Bảng vàng đề tên, thiên hạ đều nể phục. Khâm thử!",
+    "Phụng thiên thừa vận Hoàng đế, chiếu viết: {ten} sở học sâu rộng, đối đáp trôi chảy giữa sân rồng, nay đỗ Đệ nhất giáp Tiến sĩ cập đệ, đệ nhị danh Bảng Nhãn! Ban yến Quỳnh Lâm, vinh quy bái tổ. Khâm thử!",
+    "Phụng thiên thừa vận Hoàng đế, chiếu viết: Tài đức song toàn, {ten} xứng đáng đứng nơi bảng vàng, nay đỗ Đệ nhất giáp Tiến sĩ cập đệ, đệ nhị danh Bảng Nhãn! Danh thơm lưu mãi muôn đời. Khâm thử!"
+  ],
+  "trangnguyen": [
+    "Phụng thiên thừa vận Hoàng đế, chiếu viết: {ten} văn chương xuất chúng, nay đỗ Đệ nhất giáp Tiến sĩ cập đệ, đệ nhất danh Trạng Nguyên! Ban mũ áo cân đai, vinh quy bái tổ! Khâm thử!",
+    "Phụng thiên thừa vận Hoàng đế, chiếu viết: Khoa này {ten} học rộng tài cao, bài thi sáng tựa sao Khuê, nay đỗ Đệ nhất giáp Tiến sĩ cập đệ, đệ nhất danh Trạng Nguyên! Võng anh đi trước, võng nàng theo sau, cả kinh thành reo mừng! Khâm thử!",
+    "Phụng thiên thừa vận Hoàng đế, chiếu viết: Trời sinh bậc kỳ tài, {ten} đứng đầu bảng vàng, nay đỗ Đệ nhất giáp Tiến sĩ cập đệ, đệ nhất danh Trạng Nguyên! Ban yến Quỳnh Lâm, treo biển vinh quy, danh thơm muôn thuở! Khâm thử!",
+    "Phụng thiên thừa vận Hoàng đế, chiếu viết: Sân rồng ba lần xướng danh, đều gọi tên {ten}. Nay đỗ Đệ nhất giáp Tiến sĩ cập đệ, đệ nhất danh Trạng Nguyên! Thiên hạ hân hoan, tổ tông rạng rỡ! Khâm thử!"
+  ],
+  "khongai": [
+    "Khoa này sân rồng vắng bóng người đỗ, bảng vàng đành để trống. Hẹn khoa sau, thiên hạ hãy dùi mài thêm.",
+    "Trống Đình vang lên mà chẳng ai đủ sức bước tới. Bảng vàng trống không, triều đình mong khoa sau có nhân tài.",
+    "Muôn sĩ tử vào trường, mà bảng vàng khoa này vẫn bỏ trống. Thánh thượng thở dài, hẹn khoa sau.",
+    "Khoa này bảng vàng bỏ trống, triều đình lắc đầu. Hẹn khoa sau."
+  ]
+}

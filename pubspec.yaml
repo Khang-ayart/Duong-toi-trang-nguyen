@@ -1,0 +1,21 @@
+name: duong_toi_trang_nguyen
+description: Đường Tới Trạng Nguyên - game thi cử Hương, Hội, Đình, chơi offline cùng 50 sĩ tử máy.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/questions.json
+    - assets/data/messages.json
