@@ -66,4 +66,4 @@ Cùng một wifi: một người bấm **Tạo phòng** rồi đọc mã 4 số,
 
 ## Chưa có
 
-- Thêm câu hỏi (hiện 120 câu).
+- Thêm câu hỏi (hiện 240 câu).
