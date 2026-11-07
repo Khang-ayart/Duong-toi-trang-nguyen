@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "h41",
+    "level": 0,
+    "topic": "Tục ngữ",
+    "q": "Điền vào chỗ trống: \"Đi một ngày đàng, học một sàng ...\"",
+    "options": [
+      "dại",
+      "khôn",
+      "giỏi",
+      "vàng"
+    ],
+    "answer": 1,
+    "explain": "Đi nhiều nơi, gặp nhiều người thì hiểu biết rộng và khôn ngoan hơn."
+  },
+  {
+    "id": "h42",
+    "level": 0,
+    "topic": "Tục ngữ",
+    "q": "Điền vào chỗ trống: \"Anh em như thể tay chân, ... ngã em nâng.\"",
+    "options": [
+      "mẹ",
+      "chị",
+      "bạn",
+      "cha"
+    ],
+    "answer": 1,
+    "explain": "Anh chị em trong nhà phải biết nâng đỡ, giúp nhau lúc khó khăn."
+  },
+  {
+    "id": "h43",
+    "level": 0,
+    "topic": "Ca dao",
+    "q": "Điền vào chỗ trống: \"Công cha như núi Thái Sơn, nghĩa mẹ như nước trong ... chảy ra.\"",
+    "options": [
+      "suối",
+      "nguồn",
+      "biển",
+      "sông"
+    ],
+    "answer": 1,
+    "explain": "Ca dao ví công cha cao như núi lớn, nghĩa mẹ dạt dào như dòng nước nguồn."
+  },
+  {
+    "id": "h44",
+    "level": 0,
+    "topic": "Thành ngữ",
+    "q": "Điền vào chỗ trống: \"Mẹ tròn con ...\"",
+    "options": [
+      "vuông",
+      "méo",
+      "dài",
+      "đẹp"
+    ],
+    "answer": 0,
+    "explain": "Đây là lời chúc mẹ và con đều khỏe mạnh, bình an sau khi sinh."
+  },
+  {
+    "id": "h45",
+    "level": 0,
+    "topic": "Địa lý",
+    "q": "Quốc gia nào có hình dáng trên bản đồ giống chiếc ủng?",
+    "options": [
+      "Ý",
+      "Thụy Điển",
+      "Tây Ban Nha",
+      "Hy Lạp"
+    ],
+    "answer": 0,
+    "explain": "Nước Ý có phần bán đảo dài chọc xuống Địa Trung Hải, nhìn giống chiếc ủng."
+  },
+  {
+    "id": "h46",
+    "level": 0,
+    "topic": "Thiên văn",
+    "q": "Trái Đất có bao nhiêu vệ tinh tự nhiên?",
+    "options": [
+      "3",
+      "0",
+      "1",
+      "2"
+    ],
+    "answer": 2,
+    "explain": "Mặt Trăng là vệ tinh tự nhiên duy nhất của Trái Đất."
+  },
+  {
+    "id": "h47",
+    "level": 0,
+    "topic": "Toán học",
+    "q": "7 × 8 bằng bao nhiêu?",
+    "options": [
+      "56",
+      "54",
+      "48",
+      "63"
+    ],
+    "answer": 0,
+    "explain": "Mẹo nhớ: \"năm sáu bảy tám\" tức 5, 6, 7, 8 nên 7 × 8 = 56."
+  },
+  {
+    "id": "h48",
+    "level": 0,
+    "topic": "Lịch sử",
+    "q": "Nhà nước đầu tiên của người Việt do các vua Hùng đứng đầu có tên là gì?",
+    "options": [
+      "Vạn Xuân",
+      "Văn Lang",
+      "Âu Lạc",
+      "Đại Cồ Việt"
+    ],
+    "answer": 1,
+    "explain": "Văn Lang đóng đô ở Phong Châu, còn Âu Lạc là nhà nước sau do An Dương Vương lập."
+  },
+  {
+    "id": "h49",
+    "level": 0,
+    "topic": "Ẩm thực",
+    "q": "Nước chấm đặc trưng của Việt Nam làm từ cá ủ với muối là gì?",
+    "options": [
+      "Nước mắm",
+      "Xì dầu",
+      "Tương ớt",
+      "Giấm"
+    ],
+    "answer": 0,
+    "explain": "Nước mắm được ủ nhiều tháng, thường làm từ cá cơm, là gia vị không thể thiếu của người Việt."
+  },
+  {
+    "id": "h50",
+    "level": 0,
+    "topic": "Động vật",
+    "q": "Con vật nào được người Việt gọi là \"chúa sơn lâm\"?",
+    "options": [
+      "Hổ",
+      "Trâu rừng",
+      "Voi",
+      "Gấu"
+    ],
+    "answer": 0,
+    "explain": "Hổ là loài mèo lớn nhất, được xem là vua của núi rừng."
+  },
+  {
+    "id": "h51",
+    "level": 0,
+    "topic": "Thiên văn",
+    "q": "Mặt Trời nhìn thấy mọc ở hướng nào?",
+    "options": [
+      "Hướng đông",
+      "Hướng bắc",
+      "Hướng nam",
+      "Hướng tây"
+    ],
+    "answer": 0,
+    "explain": "Trái Đất tự quay từ tây sang đông nên ta thấy Mặt Trời mọc ở đằng đông."
+  },
+  {
+    "id": "h52",
+    "level": 0,
+    "topic": "Cổ tích",
+    "q": "Trong truyện cổ tích Thạch Sanh, nhân vật dùng nhạc cụ nào khiến quân giặc phải bỏ vũ khí?",
+    "options": [
+      "Đàn thần",
+      "Kèn lá",
+      "Sáo thần",
+      "Trống đồng"
+    ],
+    "answer": 0,
+    "explain": "Tiếng đàn của Thạch Sanh khiến quân mười tám nước chư hầu rã rời, xin hàng."
+  },
+  {
+    "id": "h53",
+    "level": 0,
+    "topic": "Văn hóa",
+    "q": "Hoàng tử nào dâng bánh chưng, bánh giầy lên vua Hùng?",
+    "options": [
+      "Sơn Tinh",
+      "Lang Liêu",
+      "Thánh Gióng",
+      "Chử Đồng Tử"
+    ],
+    "answer": 1,
+    "explain": "Bánh chưng tượng trưng cho đất, bánh giầy tượng trưng cho trời."
+  },
+  {
+    "id": "h54",
+    "level": 0,
+    "topic": "Văn hóa",
+    "q": "Trang phục truyền thống của người Nhật Bản gọi là gì?",
+    "options": [
+      "Kimono",
+      "Áo dài",
+      "Sari",
+      "Hanbok"
+    ],
+    "answer": 0,
+    "explain": "Hanbok của Hàn Quốc, Sari của Ấn Độ, Áo dài của Việt Nam."
+  },
+  {
+    "id": "h55",
+    "level": 0,
+    "topic": "Hóa học",
+    "q": "Kim loại nào ở thể lỏng ở nhiệt độ phòng?",
+    "options": [
+      "Thủy ngân",
+      "Sắt",
+      "Đồng",
+      "Nhôm"
+    ],
+    "answer": 0,
+    "explain": "Thủy ngân (Hg) lỏng ở nhiệt độ thường, từng dùng làm nhiệt kế nhưng rất độc."
+  },
+  {
+    "id": "h56",
+    "level": 0,
+    "topic": "Địa lý",
+    "q": "Vịnh Hạ Long được UNESCO công nhận là gì?",
+    "options": [
+      "Di sản văn hóa thế giới",
+      "Di sản thiên nhiên thế giới",
+      "Thành phố sáng tạo",
+      "Kỳ quan nhân tạo"
+    ],
+    "answer": 1,
+    "explain": "Vịnh Hạ Long có hàng nghìn đảo đá vôi, được công nhận lần đầu năm 1994."
+  },
+  {
+    "id": "h57",
+    "level": 0,
+    "topic": "Âm nhạc",
+    "q": "Bảy nốt nhạc cơ bản là đô, rê, mi, fa, sol, la, và nốt nào?",
+    "options": [
+      "xi",
+      "pa",
+      "si",
+      "ti đô"
+    ],
+    "answer": 2,
+    "explain": "Sau nốt si thì quay lại nốt đô ở quãng tám cao hơn."
+  },
+  {
+    "id": "h58",
+    "level": 0,
+    "topic": "Thể thao",
+    "q": "Mỗi đội bóng đá có bao nhiêu cầu thủ trên sân (kể cả thủ môn)?",
+    "options": [
+      "12",
+      "10",
+      "9",
+      "11"
+    ],
+    "answer": 3,
+    "explain": "Mỗi đội 11 người, gồm 1 thủ môn và 10 cầu thủ."
+  },
+  {
+    "id": "h59",
+    "level": 0,
+    "topic": "Lịch sử",
+    "q": "Trên quốc kỳ Việt Nam, hình gì nằm ở giữa nền đỏ?",
+    "options": [
+      "Búa liềm",
+      "Ngôi sao vàng năm cánh",
+      "Mặt trời",
+      "Bông lúa vàng"
+    ],
+    "answer": 1,
+    "explain": "Nền đỏ tượng trưng cho cách mạng, ngôi sao vàng năm cánh tượng trưng cho năm tầng lớp nhân dân."
+  },
+  {
+    "id": "h60",
+    "level": 0,
+    "topic": "Địa lý",
+    "q": "Đại dương nào lớn nhất thế giới?",
+    "options": [
+      "Bắc Băng Dương",
+      "Đại Tây Dương",
+      "Ấn Độ Dương",
+      "Thái Bình Dương"
+    ],
+    "answer": 3,
+    "explain": "Thái Bình Dương rộng hơn cả tổng diện tích đất liền trên Trái Đất."
+  },
+  {
+    "id": "h61",
+    "level": 0,
+    "topic": "Đố vui",
+    "q": "Cái gì là của bạn nhưng người khác dùng nhiều hơn bạn?",
+    "options": [
+      "Cái bàn của bạn",
+      "Điện thoại của bạn",
+      "Tên của bạn",
+      "Chiếc áo của bạn"
+    ],
+    "answer": 2,
+    "explain": "Người khác gọi tên bạn thường xuyên hơn chính bạn tự gọi."
+  },
+  {
+    "id": "h62",
+    "level": 0,
+    "topic": "Đố vui",
+    "q": "Con gì buổi sáng đi bốn chân, buổi trưa đi hai chân, buổi tối đi ba chân?",
+    "options": [
+      "Con khỉ",
+      "Con gấu",
+      "Con ếch",
+      "Con người"
+    ],
+    "answer": 3,
+    "explain": "Đây là câu đố của Nhân sư: bé bò bằng bốn chi, lớn đi hai chân, già chống thêm gậy."
+  },
+  {
+    "id": "h63",
+    "level": 0,
+    "topic": "Toán học",
+    "q": "Một tá bút chì có bao nhiêu cây?",
+    "options": [
+      "20 cây",
+      "10 cây",
+      "24 cây",
+      "12 cây"
+    ],
+    "answer": 3,
+    "explain": "1 tá bằng 12 đơn vị, 2 tá là 24."
+  },
+  {
+    "id": "h64",
+    "level": 0,
+    "topic": "Vật lý",
+    "q": "Âm thanh KHÔNG thể truyền trong môi trường nào?",
+    "options": [
+      "Thép",
+      "Nước",
+      "Chân không",
+      "Không khí"
+    ],
+    "answer": 2,
+    "explain": "Âm thanh cần vật chất để truyền, nên trong vũ trụ chân không không nghe được tiếng gì."
+  },
+  {
+    "id": "h65",
+    "level": 0,
+    "topic": "Địa lý",
+    "q": "Lãnh thổ đất liền của Việt Nam có hình chữ gì trên bản đồ?",
+    "options": [
+      "Chữ L",
+      "Chữ C",
+      "Chữ S",
+      "Chữ Z"
+    ],
+    "answer": 2,
+    "explain": "Nước ta kéo dài theo hướng Bắc Nam khoảng 1.650 km, nhìn như chữ S."
+  },
+  {
+    "id": "h66",
+    "level": 0,
+    "topic": "Lịch sử",
+    "q": "Ai là người lãnh đạo khởi nghĩa Lam Sơn đánh đuổi quân Minh?",
+    "options": [
+      "Trần Quốc Tuấn",
+      "Lý Thường Kiệt",
+      "Quang Trung",
+      "Lê Lợi"
+    ],
+    "answer": 3,
+    "explain": "Khởi nghĩa Lam Sơn kéo dài 1418 đến 1427, sau đó Lê Lợi lên ngôi lập nhà Hậu Lê."
+  },
+  {
+    "id": "h67",
+    "level": 0,
+    "topic": "Cổ tích",
+    "q": "Trong truyện Tấm Cám, ai thường hiện lên giúp đỡ Tấm mỗi khi cô khóc?",
+    "options": [
+      "Bụt",
+      "Thổ Địa",
+      "Ông Trời",
+      "Thần Tài"
+    ],
+    "answer": 0,
+    "explain": "Bụt là hình ảnh ông tiên hiền lành trong cổ tích Việt, hay cứu giúp người tốt."
+  },
+  {
+    "id": "h68",
+    "level": 0,
+    "topic": "Động vật",
+    "q": "Bướu trên lưng lạc đà chứa chủ yếu thứ gì?",
+    "options": [
+      "Cát",
+      "Thức ăn đã nhai",
+      "Nước",
+      "Mỡ"
+    ],
+    "answer": 3,
+    "explain": "Bướu chứa mỡ dự trữ năng lượng, không phải nước như nhiều người tưởng."
+  },
+  {
+    "id": "h69",
+    "level": 0,
+    "topic": "Thiên văn",
+    "q": "Vì sao Sao Hỏa có màu đỏ?",
+    "options": [
+      "Do có nhiều nước biển",
+      "Do Mặt Trời chiếu đỏ",
+      "Bề mặt có nhiều oxit sắt (gỉ sắt)",
+      "Do bị núi lửa bao phủ"
+    ],
+    "answer": 2,
+    "explain": "Đất đá trên Sao Hỏa giàu oxit sắt, giống như gỉ sắt nên có màu đỏ cam."
+  },
+  {
+    "id": "h70",
+    "level": 0,
+    "topic": "Ẩm thực",
+    "q": "Loại trái cây nào gai nhọn, mùi rất nồng và được mệnh danh \"vua trái cây\"?",
+    "options": [
+      "Mít",
+      "Chôm chôm",
+      "Sầu riêng",
+      "Măng cụt"
+    ],
+    "answer": 2,
+    "explain": "Sầu riêng người mê kẻ ghét vì mùi quá nồng, nhưng vị béo ngọt rất đặc biệt."
+  },
+  {
+    "id": "h71",
+    "level": 0,
+    "topic": "Truyền thuyết",
+    "q": "Theo truyền thuyết, Thánh Gióng đánh tan giặc nào?",
+    "options": [
+      "Giặc Ân",
+      "Giặc Tống",
+      "Giặc Minh",
+      "Giặc Thanh"
+    ],
+    "answer": 0,
+    "explain": "Gióng nhổ tre đánh giặc Ân rồi bay về trời, là một trong Tứ bất tử của tín ngưỡng Việt."
+  },
+  {
+    "id": "h72",
+    "level": 0,
+    "topic": "Địa lý",
+    "q": "Chất lỏng nóng chảy phun ra từ miệng núi lửa lên mặt đất gọi là gì?",
+    "options": [
+      "Dung nham",
+      "Magma",
+      "Khí thải",
+      "Bọt biển"
+    ],
+    "answer": 0,
+    "explain": "Khi còn dưới lòng đất gọi là magma, phun lên mặt đất mới gọi là dung nham."
+  },
+  {
+    "id": "h73",
+    "level": 0,
+    "topic": "Toán học",
+    "q": "Số chẵn nhỏ nhất có hai chữ số là số nào?",
+    "options": [
+      "12",
+      "11",
+      "20",
+      "10"
+    ],
+    "answer": 3,
+    "explain": "Số có hai chữ số nhỏ nhất là 10, và 10 là số chẵn."
+  },
+  {
+    "id": "h74",
+    "level": 0,
+    "topic": "Lịch sử thế giới",
+    "q": "Ai là người đầu tiên đặt chân lên Mặt Trăng?",
+    "options": [
+      "Buzz Aldrin",
+      "Yuri Gagarin",
+      "Alan Shepard",
+      "Neil Armstrong"
+    ],
+    "answer": 3,
+    "explain": "Ngày 20/7/1969, Armstrong bước xuống Mặt Trăng trong sứ mệnh Apollo 11. Gagarin là người đầu tiên bay vào vũ trụ."
+  },
+  {
+    "id": "h75",
+    "level": 0,
+    "topic": "Địa lý",
+    "q": "Kim tự tháp Giza nổi tiếng nằm ở nước nào?",
+    "options": [
+      "Mexico",
+      "Iraq",
+      "Peru",
+      "Ai Cập"
+    ],
+    "answer": 3,
+    "explain": "Kim tự tháp Giza là lăng mộ của các pharaoh Ai Cập cổ đại."
+  },
+  {
+    "id": "h76",
+    "level": 0,
+    "topic": "Cơ thể người",
+    "q": "Người trưởng thành đủ bộ răng có bao nhiêu chiếc?",
+    "options": [
+      "30 chiếc",
+      "36 chiếc",
+      "32 chiếc",
+      "28 chiếc"
+    ],
+    "answer": 2,
+    "explain": "32 chiếc nếu tính cả 4 răng khôn, nhiều người không mọc đủ răng khôn."
+  },
+  {
+    "id": "h77",
+    "level": 0,
+    "topic": "Hóa học vui",
+    "q": "Dịch sang tiếng phổ thông: \"Làm ơn đưa giúp tôi lọ natri clorua trên bàn ăn.\"",
+    "options": [
+      "Đưa giúp tôi lọ tiêu",
+      "Đưa giúp tôi lọ đường",
+      "Đưa giúp tôi lọ muối",
+      "Đưa giúp tôi lọ bột ngọt"
+    ],
+    "answer": 2,
+    "explain": "NaCl là công thức hóa học của muối ăn, tên gọi là natri clorua."
+  },
+  {
+    "id": "h78",
+    "level": 0,
+    "topic": "Văn hóa",
+    "q": "Tết Đoan Ngọ (mùng 5 tháng 5 âm lịch) còn được gọi là Tết gì?",
+    "options": [
+      "Tết Trùng cửu",
+      "Tết diệt sâu bọ",
+      "Tết Hàn thực",
+      "Tết Thanh minh"
+    ],
+    "answer": 1,
+    "explain": "Người ta ăn rượu nếp, trái cây vào sáng sớm với ý \"diệt sâu bọ\" trong người."
+  },
+  {
+    "id": "h79",
+    "level": 0,
+    "topic": "Cờ vua",
+    "q": "Bàn cờ vua có tất cả bao nhiêu ô vuông?",
+    "options": [
+      "64 ô",
+      "81 ô",
+      "49 ô",
+      "36 ô"
+    ],
+    "answer": 0,
+    "explain": "Bàn cờ 8 hàng × 8 cột = 64 ô, xen kẽ trắng đen."
+  },
+  {
+    "id": "h80",
+    "level": 0,
+    "topic": "Đố vui",
+    "q": "Cái gì chỉ đi lên mà không bao giờ đi xuống?",
+    "options": [
+      "Khinh khí cầu",
+      "Giá vàng",
+      "Tuổi tác",
+      "Cầu thang"
+    ],
+    "answer": 2,
+    "explain": "Tuổi chỉ có tăng theo thời gian, không bao giờ giảm."
+  },
+  {
+    "id": "m41",
+    "level": 1,
+    "topic": "Vui có kiến thức",
+    "q": "Dịch sang tiếng phổ thông: \"Thiết bị truyền tin cầm tay đã tiêu hao hết năng lượng hóa học tích trữ.\"",
+    "options": [
+      "Điện thoại bị rơi vỡ",
+      "Điện thoại bị khóa",
+      "Điện thoại mất sóng",
+      "Điện thoại hết pin"
+    ],
+    "answer": 3,
+    "explain": "Pin lưu trữ năng lượng dưới dạng hóa học rồi chuyển thành điện khi dùng."
+  },
+  {
+    "id": "m42",
+    "level": 1,
+    "topic": "Tục ngữ",
+    "q": "Câu \"Tiên học lễ, hậu học văn\" có ý nghĩa gì?",
+    "options": [
+      "Chỉ cần học lễ, không cần học văn",
+      "Học văn trước, học lễ sau",
+      "Học đạo đức, lễ phép trước rồi mới học kiến thức",
+      "Học thật nhanh để thi đỗ"
+    ],
+    "answer": 2,
+    "explain": "Đây là phương châm giáo dục quen thuộc, đề cao việc rèn nhân cách trước."
+  },
+  {
+    "id": "m43",
+    "level": 1,
+    "topic": "Tục ngữ",
+    "q": "Tục ngữ \"Ăn cây nào rào cây nấy\" muốn nói điều gì?",
+    "options": [
+      "Phải rào vườn cẩn thận",
+      "Ăn xong phải dọn dẹp",
+      "Sống nhờ nơi nào thì phải gắn bó, bảo vệ nơi đó",
+      "Chỉ ăn trái cây trong vườn nhà"
+    ],
+    "answer": 2,
+    "explain": "Hưởng lợi từ đâu thì phải có trách nhiệm và trung thành với nơi ấy."
+  },
+  {
+    "id": "m44",
+    "level": 1,
+    "topic": "Ca dao",
+    "q": "Điền vào chỗ trống: \"Đường vô xứ Nghệ quanh quanh, non xanh nước ... như tranh họa đồ.\"",
+    "options": [
+      "trong",
+      "đục",
+      "biếc",
+      "lặng"
+    ],
+    "answer": 2,
+    "explain": "Ca dao ca ngợi cảnh sắc xứ Nghệ (Nghệ An, Hà Tĩnh) đẹp như tranh vẽ."
+  },
+  {
+    "id": "m45",
+    "level": 1,
+    "topic": "Truyện Kiều",
+    "q": "Điền vào chỗ trống: \"Chữ tài chữ mệnh khéo là ... nhau.\"",
+    "options": [
+      "thương",
+      "ghét",
+      "yêu",
+      "hại"
+    ],
+    "answer": 1,
+    "explain": "Nguyễn Du than rằng người tài hoa thường gặp số phận trắc trở."
+  },
+  {
+    "id": "m46",
+    "level": 1,
+    "topic": "Thơ ca",
+    "q": "Bài thơ \"Thương vợ\" viết về bà Tú tần tảo nuôi chồng con là của nhà thơ nào?",
+    "options": [
+      "Tú Xương",
+      "Nguyễn Khuyến",
+      "Nguyễn Công Trứ",
+      "Cao Bá Quát"
+    ],
+    "answer": 0,
+    "explain": "Tú Xương (Trần Tế Xương) viết về người vợ vất vả quanh năm, giọng thơ vừa thương cảm vừa pha trào phúng."
+  },
+  {
+    "id": "m47",
+    "level": 1,
+    "topic": "Văn học",
+    "q": "Tiểu thuyết trào phúng \"Số đỏ\" với nhân vật Xuân Tóc Đỏ là của nhà văn nào?",
+    "options": [
+      "Nam Cao",
+      "Vũ Trọng Phụng",
+      "Nguyễn Công Hoan",
+      "Ngô Tất Tố"
+    ],
+    "answer": 1,
+    "explain": "Số đỏ ra đời năm 1936, châm biếm xã hội thành thị thời thuộc Pháp."
+  },
+  {
+    "id": "m48",
+    "level": 1,
+    "topic": "Văn học",
+    "q": "Truyện ngắn \"Chí Phèo\" với nhân vật Thị Nở là của nhà văn nào?",
+    "options": [
+      "Tô Hoài",
+      "Kim Lân",
+      "Nguyên Hồng",
+      "Nam Cao"
+    ],
+    "answer": 3,
+    "explain": "Truyện kể về người nông dân bị đẩy vào đường cùng ở làng Vũ Đại."
+  },
+  {
+    "id": "m49",
+    "level": 1,
+    "topic": "Lịch sử",
+    "q": "Hiệp định Genève 1954 lấy vĩ tuyến nào làm giới tuyến quân sự tạm thời chia hai miền Việt Nam?",
+    "options": [
+      "Vĩ tuyến 16",
+      "Vĩ tuyến 20",
+      "Vĩ tuyến 17",
+      "Vĩ tuyến 38"
+    ],
+    "answer": 2,
+    "explain": "Sông Bến Hải nằm ở vĩ tuyến 17. Vĩ tuyến 38 là của bán đảo Triều Tiên."
+  },
+  {
+    "id": "m50",
+    "level": 1,
+    "topic": "Lịch sử",
+    "q": "Cuộc Tổng tiến công và nổi dậy Tết Mậu Thân diễn ra vào năm nào?",
+    "options": [
+      "1972",
+      "1954",
+      "1965",
+      "1968"
+    ],
+    "answer": 3,
+    "explain": "Chiến dịch nổ ra đồng loạt vào dịp Tết Mậu Thân năm 1968."
+  },
+  {
+    "id": "m51",
+    "level": 1,
+    "topic": "Lịch sử",
+    "q": "Thành Cổ Loa xoáy trôn ốc là kinh đô của vị vua nào?",
+    "options": [
+      "Triệu Đà",
+      "An Dương Vương",
+      "Hùng Vương",
+      "Lý Nam Đế"
+    ],
+    "answer": 1,
+    "explain": "Cổ Loa gắn với truyền thuyết nỏ thần Kim Quy và chuyện Mỵ Châu - Trọng Thủy."
+  },
+  {
+    "id": "m52",
+    "level": 1,
+    "topic": "Lịch sử thế giới",
+    "q": "Ai là người chỉ huy đoàn thám hiểm đầu tiên đi vòng quanh thế giới bằng đường biển?",
+    "options": [
+      "Ferdinand Magellan",
+      "Christopher Columbus",
+      "James Cook",
+      "Vasco da Gama"
+    ],
+    "answer": 0,
+    "explain": "Magellan chết giữa đường ở Philippines, Elcano dẫn các tàu còn lại về đích."
+  },
+  {
+    "id": "m53",
+    "level": 1,
+    "topic": "Địa lý",
+    "q": "Sông dài nhất châu Âu là sông nào?",
+    "options": [
+      "Sông Danube",
+      "Sông Volga",
+      "Sông Rhine",
+      "Sông Seine"
+    ],
+    "answer": 1,
+    "explain": "Volga dài khoảng 3.500 km, chảy hoàn toàn trong nước Nga."
+  },
+  {
+    "id": "m54",
+    "level": 1,
+    "topic": "Địa lý",
+    "q": "Hồ nước ngọt sâu nhất thế giới là hồ nào?",
+    "options": [
+      "Hồ Baikal",
+      "Hồ Tonlé Sap",
+      "Hồ Superior",
+      "Hồ Victoria"
+    ],
+    "answer": 0,
+    "explain": "Baikal (Nga) sâu hơn 1.600 m và chứa khoảng 20% lượng nước ngọt lỏng trên bề mặt Trái Đất."
+  },
+  {
+    "id": "m55",
+    "level": 1,
+    "topic": "Địa lý",
+    "q": "Điểm cực Nam trên đất liền của Việt Nam là mũi nào?",
+    "options": [
+      "Mũi Cà Mau",
+      "Mũi Kê Gà",
+      "Mũi Dinh",
+      "Mũi Né"
+    ],
+    "answer": 0,
+    "explain": "Mũi Cà Mau liên tục lấn ra biển nhờ phù sa bồi đắp."
+  },
+  {
+    "id": "m56",
+    "level": 1,
+    "topic": "Vật lý",
+    "q": "Đơn vị đo cường độ dòng điện là gì?",
+    "options": [
+      "Vôn",
+      "Oát",
+      "Ampe",
+      "Ôm"
+    ],
+    "answer": 2,
+    "explain": "Ampe (A) đặt theo nhà vật lý André-Marie Ampère."
+  },
+  {
+    "id": "m57",
+    "level": 1,
+    "topic": "Khoa học",
+    "q": "Khí nào chiếm tỉ lệ nhiều nhất trong không khí?",
+    "options": [
+      "Nitơ",
+      "Oxy",
+      "Argon",
+      "Cacbonic"
+    ],
+    "answer": 0,
+    "explain": "Nitơ chiếm khoảng 78%, oxy chỉ khoảng 21%."
+  },
+  {
+    "id": "m58",
+    "level": 1,
+    "topic": "Cơ thể người",
+    "q": "Xương nào dài và chắc nhất cơ thể người?",
+    "options": [
+      "Xương cánh tay",
+      "Xương sườn",
+      "Xương đùi",
+      "Xương chày"
+    ],
+    "answer": 2,
+    "explain": "Xương đùi nằm ở bắp đùi, chịu phần lớn trọng lượng cơ thể khi đi đứng."
+  },
+  {
+    "id": "m59",
+    "level": 1,
+    "topic": "Sinh học",
+    "q": "Chất nào tạo nên màu xanh của lá cây?",
+    "options": [
+      "Canxi",
+      "Melanin",
+      "Diệp lục",
+      "Hồng cầu"
+    ],
+    "answer": 2,
+    "explain": "Diệp lục hấp thụ ánh sáng đỏ và xanh tím, phản xạ ánh sáng xanh lục nên lá có màu xanh."
+  },
+  {
+    "id": "m60",
+    "level": 1,
+    "topic": "Hóa học",
+    "q": "Kim loại nào dẫn điện tốt nhất?",
+    "options": [
+      "Vàng",
+      "Nhôm",
+      "Đồng",
+      "Bạc"
+    ],
+    "answer": 3,
+    "explain": "Bạc dẫn điện tốt nhất, nhưng đồng rẻ hơn nên được dùng làm dây điện phổ biến."
+  },
+  {
+    "id": "m61",
+    "level": 1,
+    "topic": "Toán học",
+    "q": "Tổng các số từ 1 đến 10 bằng bao nhiêu?",
+    "options": [
+      "45",
+      "55",
+      "50",
+      "60"
+    ],
+    "answer": 1,
+    "explain": "Cách tính nhanh của Gauss: (1 + 10) × 10 ÷ 2 = 55."
+  },
+  {
+    "id": "m62",
+    "level": 1,
+    "topic": "Toán học",
+    "q": "Số hoàn hảo nhỏ nhất (bằng tổng các ước nhỏ hơn nó) là số nào?",
+    "options": [
+      "6",
+      "12",
+      "10",
+      "8"
+    ],
+    "answer": 0,
+    "explain": "6 = 1 + 2 + 3. Số hoàn hảo tiếp theo là 28."
+  },
+  {
+    "id": "m63",
+    "level": 1,
+    "topic": "Toán học",
+    "q": "Số La Mã XIV là số nào?",
+    "options": [
+      "9",
+      "16",
+      "14",
+      "24"
+    ],
+    "answer": 2,
+    "explain": "X = 10 và IV = 4 nên XIV = 14."
+  },
+  {
+    "id": "m64",
+    "level": 1,
+    "topic": "Ngôn ngữ",
+    "q": "Từ \"bàn\" trong \"cái bàn\" và \"bàn bạc\" là loại từ gì?",
+    "options": [
+      "Từ đồng nghĩa",
+      "Từ đồng âm",
+      "Từ láy",
+      "Từ trái nghĩa"
+    ],
+    "answer": 1,
+    "explain": "Từ đồng âm đọc giống nhau nhưng nghĩa hoàn toàn khác nhau."
+  },
+  {
+    "id": "m65",
+    "level": 1,
+    "topic": "Ngôn ngữ",
+    "q": "Từ nào sau đây là từ láy?",
+    "options": [
+      "học tập",
+      "bàn ghế",
+      "long lanh",
+      "xe cộ"
+    ],
+    "answer": 2,
+    "explain": "Từ láy có các tiếng lặp lại âm đầu hoặc vần, còn ba từ kia là từ ghép."
+  },
+  {
+    "id": "m66",
+    "level": 1,
+    "topic": "Thành ngữ",
+    "q": "Thành ngữ \"Ngưu tầm ngưu, mã tầm mã\" nói lên điều gì?",
+    "options": [
+      "Người làm nông hay nuôi ngựa",
+      "Những người giống nhau thường tìm đến nhau",
+      "Phải biết chăm sóc gia súc",
+      "Trâu ngựa thường đi chung đàn"
+    ],
+    "answer": 1,
+    "explain": "\"Ngưu\" là trâu, \"mã\" là ngựa: ý nói người cùng tính cách, chí hướng hay chơi với nhau."
+  },
+  {
+    "id": "m67",
+    "level": 1,
+    "topic": "Hán Việt",
+    "q": "Từ Hán Việt \"thiên địa\" nghĩa là gì?",
+    "options": [
+      "Ngày đêm",
+      "Âm dương",
+      "Núi sông",
+      "Trời đất"
+    ],
+    "answer": 3,
+    "explain": "\"Thiên\" là trời, \"địa\" là đất."
+  },
+  {
+    "id": "m68",
+    "level": 1,
+    "topic": "Địa lý",
+    "q": "Đền Angkor Wat nổi tiếng nằm ở quốc gia nào?",
+    "options": [
+      "Thái Lan",
+      "Myanmar",
+      "Campuchia",
+      "Lào"
+    ],
+    "answer": 2,
+    "explain": "Angkor Wat xây vào thế kỷ 12, là công trình tôn giáo lớn nhất thế giới."
+  },
+  {
+    "id": "m69",
+    "level": 1,
+    "topic": "Địa lý",
+    "q": "Quốc gia nào có dân số đông nhất thế giới hiện nay?",
+    "options": [
+      "Indonesia",
+      "Mỹ",
+      "Trung Quốc",
+      "Ấn Độ"
+    ],
+    "answer": 3,
+    "explain": "Ấn Độ vượt Trung Quốc từ năm 2023 theo ước tính của Liên Hợp Quốc."
+  },
+  {
+    "id": "m70",
+    "level": 1,
+    "topic": "Lịch sử thế giới",
+    "q": "Bức tường Berlin sụp đổ vào năm nào?",
+    "options": [
+      "1989",
+      "1991",
+      "1961",
+      "1975"
+    ],
+    "answer": 0,
+    "explain": "Bức tường sụp ngày 9/11/1989, nước Đức thống nhất năm 1990. Năm 1961 là lúc bức tường được dựng."
+  },
+  {
+    "id": "m71",
+    "level": 1,
+    "topic": "Nghệ thuật",
+    "q": "Bức tranh \"Mona Lisa\" do họa sĩ nào vẽ?",
+    "options": [
+      "Vincent van Gogh",
+      "Michelangelo",
+      "Leonardo da Vinci",
+      "Raphael"
+    ],
+    "answer": 2,
+    "explain": "Bức tranh hiện được treo tại bảo tàng Louvre ở Paris."
+  },
+  {
+    "id": "m72",
+    "level": 1,
+    "topic": "Thể thao",
+    "q": "Cự ly chạy marathon chuẩn dài bao nhiêu?",
+    "options": [
+      "40 km",
+      "42,195 km",
+      "36,5 km",
+      "50 km"
+    ],
+    "answer": 1,
+    "explain": "Con số lẻ 42,195 km bắt nguồn từ cự ly tại Thế vận hội London 1908."
+  },
+  {
+    "id": "m73",
+    "level": 1,
+    "topic": "Địa lý",
+    "q": "Cà phê ở Việt Nam được trồng nhiều nhất ở vùng nào?",
+    "options": [
+      "Đồng bằng sông Cửu Long",
+      "Tây Bắc",
+      "Duyên hải Bắc Bộ",
+      "Tây Nguyên"
+    ],
+    "answer": 3,
+    "explain": "Đắk Lắk, Lâm Đồng và các tỉnh Tây Nguyên là vựa cà phê lớn của nước ta."
+  },
+  {
+    "id": "m74",
+    "level": 1,
+    "topic": "Công nghệ",
+    "q": "WWW trong địa chỉ trang web là viết tắt của cụm từ nào?",
+    "options": [
+      "Web World Wide",
+      "World Wireless Web",
+      "Wide World Web",
+      "World Wide Web"
+    ],
+    "answer": 3,
+    "explain": "World Wide Web (mạng toàn cầu) do Tim Berners-Lee phát minh cuối thập niên 1980."
+  },
+  {
+    "id": "m75",
+    "level": 1,
+    "topic": "Công nghệ",
+    "q": "Một byte gồm bao nhiêu bit?",
+    "options": [
+      "10 bit",
+      "16 bit",
+      "4 bit",
+      "8 bit"
+    ],
+    "answer": 3,
+    "explain": "8 bit biểu diễn được 256 giá trị khác nhau."
+  },
+  {
+    "id": "m76",
+    "level": 1,
+    "topic": "Động vật",
+    "q": "Loài thú nào duy nhất biết bay thật sự?",
+    "options": [
+      "Cá chuồn",
+      "Dơi",
+      "Sóc bay",
+      "Chồn bay"
+    ],
+    "answer": 1,
+    "explain": "Sóc bay và chồn bay chỉ lượn, còn dơi vỗ cánh bay như chim."
+  },
+  {
+    "id": "m77",
+    "level": 1,
+    "topic": "Động vật",
+    "q": "Thú có túi nổi tiếng ở Úc, con non nuôi trong túi trước bụng mẹ, là con gì?",
+    "options": [
+      "Hải ly",
+      "Kangaroo",
+      "Gấu trúc",
+      "Lười"
+    ],
+    "answer": 1,
+    "explain": "Kangaroo con sinh ra rất nhỏ, sống trong túi mẹ vài tháng."
+  },
+  {
+    "id": "m78",
+    "level": 1,
+    "topic": "Sinh học",
+    "q": "Nhện khác côn trùng ở điểm nào?",
+    "options": [
+      "Nhện có 8 chân, côn trùng có 6 chân",
+      "Nhện chỉ sống dưới nước",
+      "Nhện có cánh, côn trùng không có",
+      "Nhện có xương sống"
+    ],
+    "answer": 0,
+    "explain": "Nhện thuộc lớp hình nhện, cơ thể có 2 phần. Côn trùng có 3 phần và 6 chân."
+  },
+  {
+    "id": "m79",
+    "level": 1,
+    "topic": "Thành ngữ",
+    "q": "Thành ngữ \"Cháy nhà ra mặt chuột\" có nghĩa là gì?",
+    "options": [
+      "Cần phòng cháy cẩn thận",
+      "Chuột rất sợ lửa",
+      "Lúc hoạn nạn mới lộ rõ bản chất con người",
+      "Nhà bị chuột cắn cháy"
+    ],
+    "answer": 2,
+    "explain": "Nhà cháy thì chuột chạy ra, ví như khi gặp chuyện mới biết ai thật ai giả."
+  },
+  {
+    "id": "m80",
+    "level": 1,
+    "topic": "Vật lý",
+    "q": "Vì sao ta thường thấy chớp (sét) trước khi nghe tiếng sấm?",
+    "options": [
+      "Sét mạnh hơn sấm",
+      "Ánh sáng truyền nhanh hơn âm thanh",
+      "Tai phản ứng chậm hơn mắt",
+      "Sấm xảy ra sau sét rất lâu"
+    ],
+    "answer": 1,
+    "explain": "Ánh sáng đi khoảng 300.000 km/s, âm thanh chỉ khoảng 340 m/s."
+  },
+  {
+    "id": "d41",
+    "level": 2,
+    "topic": "Vui có kiến thức",
+    "q": "Dịch sang tiếng phổ thông: \"Em đã tiến hành hấp thụ hợp chất polysaccharide có nguồn gốc từ hạt của loài Oryza sativa đã được tách vỏ và sàng lọc, cho tác dụng với nước cùng quá trình gia nhiệt để hồ hóa thành glucose chuyển hóa thành năng lượng chưa?\"",
+    "options": [
+      "Em ăn cơm chưa?",
+      "Em ăn phở chưa?",
+      "Em uống sữa chưa?",
+      "Em uống thuốc chưa?"
+    ],
+    "answer": 0,
+    "explain": "Polysaccharide là tinh bột, Oryza sativa là tên khoa học của lúa, hồ hóa là hạt tinh bột nở mềm khi gặp nước nóng."
+  },
+  {
+    "id": "d42",
+    "level": 2,
+    "topic": "Vui có kiến thức",
+    "q": "\"Canis lupus familiaris\" là tên khoa học của con vật nào?",
+    "options": [
+      "Chó sói",
+      "Chó nhà",
+      "Cáo",
+      "Mèo nhà"
+    ],
+    "answer": 1,
+    "explain": "Chó nhà là phân loài được thuần hóa từ chó sói xám (Canis lupus)."
+  },
+  {
+    "id": "d43",
+    "level": 2,
+    "topic": "Vui có kiến thức",
+    "q": "Tên khoa học \"Homo sapiens\" của loài người nghĩa là gì?",
+    "options": [
+      "Người khôn ngoan",
+      "Người biết nói",
+      "Người đứng thẳng",
+      "Người săn bắn"
+    ],
+    "answer": 0,
+    "explain": "\"Homo\" là người, \"sapiens\" là khôn ngoan. Còn \"Homo erectus\" mới là người đứng thẳng."
+  },
+  {
+    "id": "d44",
+    "level": 2,
+    "topic": "Vui có kiến thức",
+    "q": "Dịch sang tiếng phổ thông: \"Khi trời lạnh hoặc sợ hãi, các cơ nhỏ quanh chân lông co lại, khiến lớp biểu bì nổi những mụn nhỏ.\"",
+    "options": [
+      "Nổi mề đay",
+      "Nổi da gà",
+      "Run cầm cập",
+      "Bị cảm lạnh"
+    ],
+    "answer": 1,
+    "explain": "Chân lông co kéo làm da sần lên giống da con gà đã vặt lông."
+  },
+  {
+    "id": "d45",
+    "level": 2,
+    "topic": "Vui có kiến thức",
+    "q": "Dịch sang tiếng phổ thông: \"Hợp chất lưu huỳnh bay hơi từ củ thuộc chi Allium kích ứng nhãn cầu, khiến tuyến lệ tiết dịch.\"",
+    "options": [
+      "Nhìn nắng bị chói mắt",
+      "Ăn ớt bị cay lưỡi",
+      "Ngửi hoa bị hắt hơi",
+      "Thái hành bị chảy nước mắt"
+    ],
+    "answer": 3,
+    "explain": "Cắt hành tạo ra khí kích thích mắt, nước mắt chảy ra để rửa trôi chất này."
+  },
+  {
+    "id": "d46",
+    "level": 2,
+    "topic": "Đố mẹo",
+    "q": "Hai người cha và hai người con cùng đi câu, mỗi người câu được một con, tổng cộng chỉ có 3 con. Có mấy người đi câu?",
+    "options": [
+      "2 người",
+      "3 người",
+      "5 người",
+      "4 người"
+    ],
+    "answer": 1,
+    "explain": "Đó là ông, cha và con: người ở giữa vừa là cha vừa là con."
+  },
+  {
+    "id": "d47",
+    "level": 2,
+    "topic": "Logic",
+    "q": "Bạn bước vào phòng tối chỉ có một que diêm. Trong phòng có đèn dầu, nến và bếp củi. Bạn thắp thứ gì trước?",
+    "options": [
+      "Đèn dầu",
+      "Que diêm",
+      "Cây nến",
+      "Bếp củi"
+    ],
+    "answer": 1,
+    "explain": "Phải quẹt que diêm trước thì mới thắp được những thứ khác."
+  },
+  {
+    "id": "d48",
+    "level": 2,
+    "topic": "Đố mẹo",
+    "q": "Cái gì càng làm khô thì chính nó càng ướt?",
+    "options": [
+      "Khăn tắm",
+      "Sa mạc",
+      "Quả bóng bay",
+      "Than củi"
+    ],
+    "answer": 0,
+    "explain": "Khăn lau thấm nước khỏi cơ thể nên chính nó trở nên ướt hơn."
+  },
+  {
+    "id": "d49",
+    "level": 2,
+    "topic": "Địa lý",
+    "q": "Châu lục nào có nhiều quốc gia nhất?",
+    "options": [
+      "Châu Âu",
+      "Châu Á",
+      "Châu Mỹ",
+      "Châu Phi"
+    ],
+    "answer": 3,
+    "explain": "Châu Phi có 54 quốc gia, Châu Á khoảng 48."
+  },
+  {
+    "id": "d50",
+    "level": 2,
+    "topic": "Địa lý",
+    "q": "Quốc gia nào có nhiều đảo nhất thế giới?",
+    "options": [
+      "Indonesia",
+      "Thụy Điển",
+      "Nhật Bản",
+      "Philippines"
+    ],
+    "answer": 1,
+    "explain": "Thụy Điển có hơn 260.000 đảo (phần lớn rất nhỏ), Indonesia chỉ khoảng 17.000."
+  },
+  {
+    "id": "d51",
+    "level": 2,
+    "topic": "Địa lý",
+    "q": "Quốc gia nào có nhiều ngôn ngữ nhất thế giới?",
+    "options": [
+      "Papua New Guinea",
+      "Ấn Độ",
+      "Nigeria",
+      "Indonesia"
+    ],
+    "answer": 0,
+    "explain": "Papua New Guinea có hơn 800 ngôn ngữ trên dân số chỉ vài triệu người."
+  },
+  {
+    "id": "d52",
+    "level": 2,
+    "topic": "Địa lý",
+    "q": "Biển nào dưới đây không có bờ biển giáp đất liền?",
+    "options": [
+      "Biển Chết",
+      "Biển Đỏ",
+      "Biển Đen",
+      "Biển Sargasso"
+    ],
+    "answer": 3,
+    "explain": "Biển Sargasso nằm giữa Đại Tây Dương, được bao quanh bởi các dòng hải lưu chứ không phải đất liền."
+  },
+  {
+    "id": "d53",
+    "level": 2,
+    "topic": "Địa lý",
+    "q": "Thực chất \"Biển Chết\" là gì?",
+    "options": [
+      "Một vịnh biển",
+      "Một hồ nước mặn",
+      "Một con sông",
+      "Một đại dương nhỏ"
+    ],
+    "answer": 1,
+    "explain": "Biển Chết là hồ nước mặn trong đất liền, bề mặt thấp hơn mực nước biển hơn 400 m."
+  },
+  {
+    "id": "d54",
+    "level": 2,
+    "topic": "Sinh học",
+    "q": "Con vật nào sau đây KHÔNG phải là cá dù tên có chữ \"cá\"?",
+    "options": [
+      "Cá ngựa",
+      "Cá chình",
+      "Cá heo",
+      "Cá mập"
+    ],
+    "answer": 2,
+    "explain": "Cá heo thở bằng phổi và nuôi con bằng sữa nên là thú biển. Cá ngựa mới là cá thật."
+  },
+  {
+    "id": "d55",
+    "level": 2,
+    "topic": "Sinh học",
+    "q": "Hươu cao cổ có bao nhiêu đốt sống cổ?",
+    "options": [
+      "7 đốt",
+      "12 đốt",
+      "14 đốt",
+      "20 đốt"
+    ],
+    "answer": 0,
+    "explain": "Giống con người, hươu cao cổ chỉ có 7 đốt sống cổ, chỉ khác là mỗi đốt rất dài."
+  },
+  {
+    "id": "d56",
+    "level": 2,
+    "topic": "Khoa học",
+    "q": "Sét có thể đánh trúng cùng một chỗ hai lần không?",
+    "options": [
+      "Không bao giờ",
+      "Chỉ nơi có nước",
+      "Chỉ vào ban đêm",
+      "Có thể"
+    ],
+    "answer": 3,
+    "explain": "Câu \"sét không đánh hai lần\" là sai: các tòa nhà cao như Empire State bị sét đánh nhiều lần mỗi năm."
+  },
+  {
+    "id": "d57",
+    "level": 2,
+    "topic": "Khoa học",
+    "q": "Sơ đồ \"vị giác theo vùng lưỡi\" (đầu lưỡi cảm nhận ngọt, hai bên cảm nhận chua...) thực tế như thế nào?",
+    "options": [
+      "Chỉ đúng với vị đắng",
+      "Chỉ đúng với trẻ em",
+      "Đúng hoàn toàn",
+      "Sai: các vị cơ bản đều được cảm nhận ở nhiều vùng của lưỡi"
+    ],
+    "answer": 3,
+    "explain": "Sơ đồ này xuất phát từ hiểu lầm một nghiên cứu cũ và đã bị bác bỏ."
+  },
+  {
+    "id": "d58",
+    "level": 2,
+    "topic": "Khoa học",
+    "q": "Vì sao mùa hè nóng hơn mùa đông?",
+    "options": [
+      "Mặt Trời nóng lên vào mùa hè",
+      "Trái Đất quay nhanh hơn",
+      "Trục Trái Đất nghiêng nên tia nắng chiếu trực tiếp hơn",
+      "Trái Đất ở gần Mặt Trời hơn"
+    ],
+    "answer": 2,
+    "explain": "Thực tế Trái Đất gần Mặt Trời nhất vào đầu tháng 1, khi Bắc bán cầu đang là mùa đông."
+  },
+  {
+    "id": "d59",
+    "level": 2,
+    "topic": "Vật lý",
+    "q": "Trong chân không, vật nặng và vật nhẹ thả cùng lúc sẽ như thế nào?",
+    "options": [
+      "Vật nhẹ rơi trước",
+      "Vật nặng rơi trước",
+      "Không vật nào rơi",
+      "Rơi chạm đất cùng lúc"
+    ],
+    "answer": 3,
+    "explain": "Không có lực cản không khí thì mọi vật rơi cùng gia tốc. Trên Mặt Trăng, phi hành gia Apollo 15 đã thả búa và lông chim để chứng minh."
+  },
+  {
+    "id": "d60",
+    "level": 2,
+    "topic": "Đố mẹo",
+    "q": "1 kg bông và 1 kg sắt, cái nào nặng hơn?",
+    "options": [
+      "Tùy từng nơi",
+      "Bông nặng hơn",
+      "Sắt nặng hơn",
+      "Bằng nhau"
+    ],
+    "answer": 3,
+    "explain": "Cả hai đều 1 kg. Bông chỉ chiếm thể tích lớn hơn nhiều."
+  },
+  {
+    "id": "d61",
+    "level": 2,
+    "topic": "Thiên văn",
+    "q": "Ngôi sao gần Trái Đất nhất (không kể Mặt Trời) là ngôi sao nào?",
+    "options": [
+      "Sao Bắc Cực",
+      "Sirius",
+      "Proxima Centauri",
+      "Vega"
+    ],
+    "answer": 2,
+    "explain": "Proxima Centauri cách chúng ta khoảng 4,24 năm ánh sáng."
+  },
+  {
+    "id": "d62",
+    "level": 2,
+    "topic": "Thiên văn",
+    "q": "Vì sao từ Trái Đất ta luôn chỉ thấy một mặt của Mặt Trăng?",
+    "options": [
+      "Mặt Trăng không tự quay",
+      "Mặt Trăng tự quay một vòng đúng bằng thời gian nó quay quanh Trái Đất",
+      "Mặt kia luôn tối đen",
+      "Mặt kia bị mây che"
+    ],
+    "answer": 1,
+    "explain": "Hiện tượng này gọi là khóa thủy triều. \"Mặt tối\" thực ra vẫn được Mặt Trời chiếu sáng như mặt kia."
+  },
+  {
+    "id": "d63",
+    "level": 2,
+    "topic": "Lịch sử thế giới",
+    "q": "Hoàng đế Napoleon thực tế cao khoảng bao nhiêu?",
+    "options": [
+      "Hơn 1,9 m",
+      "Khoảng 1,5 m",
+      "Khoảng 1,69 m, xấp xỉ trung bình thời đó",
+      "Chỉ khoảng 1,4 m"
+    ],
+    "answer": 2,
+    "explain": "Hình ảnh \"lùn\" do nhầm lẫn đơn vị đo Pháp - Anh và biệt danh thân mật của binh lính."
+  },
+  {
+    "id": "d64",
+    "level": 2,
+    "topic": "Lịch sử thế giới",
+    "q": "Có thể nhìn thấy Vạn Lý Trường Thành bằng mắt thường từ Mặt Trăng không?",
+    "options": [
+      "Có, rất rõ",
+      "Không",
+      "Chỉ vào ban đêm",
+      "Chỉ vào mùa đông"
+    ],
+    "answer": 1,
+    "explain": "Tường quá hẹp, từ rất xa không phân biệt được, ngay từ quỹ đạo thấp cũng khó thấy."
+  },
+  {
+    "id": "d65",
+    "level": 2,
+    "topic": "Lịch sử thế giới",
+    "q": "Nữ hoàng Cleopatra sống gần thời điểm nào hơn?",
+    "options": [
+      "Cách đều hai thời điểm",
+      "Không thể xác định",
+      "Gần lúc xây kim tự tháp Giza hơn",
+      "Gần lúc con người lên Mặt Trăng hơn"
+    ],
+    "answer": 3,
+    "explain": "Giza xây khoảng 2.560 TCN, Cleopatra mất năm 30 TCN, còn Apollo 11 là năm 1969."
+  },
+  {
+    "id": "d66",
+    "level": 2,
+    "topic": "Lịch sử",
+    "q": "Ai là nhà truyền giáo có công lớn trong việc hoàn thiện và phổ biến chữ quốc ngữ, soạn từ điển Việt - Bồ - La năm 1651?",
+    "options": [
+      "Nguyễn Trường Tộ",
+      "Marco Polo",
+      "Alexandre de Rhodes (Đắc Lộ)",
+      "Louis Pasteur"
+    ],
+    "answer": 2,
+    "explain": "Từ điển in tại Roma năm 1651, là mốc quan trọng của chữ quốc ngữ."
+  },
+  {
+    "id": "d67",
+    "level": 2,
+    "topic": "Văn học",
+    "q": "Nhà thơ mù nổi tiếng thế kỷ 19, tác giả truyện thơ \"Lục Vân Tiên\", là ai?",
+    "options": [
+      "Nguyễn Du",
+      "Cao Bá Quát",
+      "Nguyễn Khuyến",
+      "Nguyễn Đình Chiểu"
+    ],
+    "answer": 3,
+    "explain": "Dù mù lòa, ông vẫn dạy học, làm thuốc và sáng tác thơ văn yêu nước."
+  },
+  {
+    "id": "d68",
+    "level": 2,
+    "topic": "Thành ngữ",
+    "q": "Câu \"Nhất tự vi sư, bán tự vi sư\" nghĩa là gì?",
+    "options": [
+      "Một chữ bằng một lạng vàng",
+      "Thầy giỏi một chữ là đủ",
+      "Dạy cho mình dù một chữ hay nửa chữ cũng là thầy",
+      "Học một chữ cũng đã đủ"
+    ],
+    "answer": 2,
+    "explain": "Câu nhắc truyền thống tôn sư trọng đạo của người Việt."
+  },
+  {
+    "id": "d69",
+    "level": 2,
+    "topic": "Chính tả",
+    "q": "Câu nào sau đây dùng từ đúng nghĩa?",
+    "options": [
+      "Mẹ giành tiền cho con ăn học",
+      "Hai đội cố gắng dành chiến thắng",
+      "Hai đội cố gắng giành chiến thắng",
+      "Em giành thời gian để đọc sách"
+    ],
+    "answer": 2,
+    "explain": "\"Giành\" là tranh lấy, còn \"dành\" là để riêng cho ai hoặc điều gì."
+  },
+  {
+    "id": "d70",
+    "level": 2,
+    "topic": "Khoa cử",
+    "q": "Từ \"thủ khoa\" nghĩa là gì?",
+    "options": [
+      "Người đỗ đầu kỳ thi",
+      "Người ra đề thi",
+      "Người đỗ cuối kỳ thi",
+      "Người coi thi"
+    ],
+    "answer": 0,
+    "explain": "\"Thủ\" là đầu, người đỗ đầu thì gọi là thủ khoa."
+  },
+  {
+    "id": "d71",
+    "level": 2,
+    "topic": "Khoa cử",
+    "q": "Vị Trạng nguyên trẻ nhất lịch sử khoa cử Việt Nam, đỗ năm khoảng 13 tuổi dưới triều Trần, là ai?",
+    "options": [
+      "Lương Thế Vinh",
+      "Nguyễn Hiền",
+      "Nguyễn Bỉnh Khiêm",
+      "Mạc Đĩnh Chi"
+    ],
+    "answer": 1,
+    "explain": "Nguyễn Hiền đỗ Trạng nguyên khoa Đinh Mùi (1247), được dân gian gọi là Trạng nguyên thần đồng."
+  },
+  {
+    "id": "d72",
+    "level": 2,
+    "topic": "Khoa cử",
+    "q": "Vị Trạng nguyên được dân gian gọi là \"Trạng Trình\" là ai?",
+    "options": [
+      "Phùng Khắc Khoan",
+      "Nguyễn Trãi",
+      "Lê Quý Đôn",
+      "Nguyễn Bỉnh Khiêm"
+    ],
+    "answer": 3,
+    "explain": "Ông đỗ Trạng nguyên năm 1535 thời Mạc, quê ở làng Trình Tuyền. Lê Quý Đôn đỗ Bảng nhãn."
+  },
+  {
+    "id": "d73",
+    "level": 2,
+    "topic": "Khoa cử",
+    "q": "Trạng nguyên nào nổi tiếng giỏi toán nên được gọi là \"Trạng Lường\"?",
+    "options": [
+      "Phùng Khắc Khoan",
+      "Mạc Đĩnh Chi",
+      "Lương Thế Vinh",
+      "Nguyễn Hiền"
+    ],
+    "answer": 2,
+    "explain": "Lương Thế Vinh đỗ Trạng nguyên năm 1463 và là tác giả sách toán \"Đại thành toán pháp\"."
+  },
+  {
+    "id": "d74",
+    "level": 2,
+    "topic": "Khoa cử",
+    "q": "Thời Nguyễn, thi Hương thường được tổ chức mấy năm một khoa?",
+    "options": [
+      "5 năm",
+      "1 năm",
+      "3 năm",
+      "10 năm"
+    ],
+    "answer": 2,
+    "explain": "Thường theo lệ \"ba năm một khoa\", năm nào có thi Hương thì năm sau có thi Hội."
+  },
+  {
+    "id": "d75",
+    "level": 2,
+    "topic": "Khoa cử",
+    "q": "Người đỗ đầu cả ba kỳ thi Hương, Hội, Đình được gọi là gì?",
+    "options": [
+      "Tứ trụ",
+      "Tam khôi",
+      "Tam nguyên",
+      "Nhất giáp"
+    ],
+    "answer": 2,
+    "explain": "Tam nguyên gồm Giải nguyên, Hội nguyên, Đình nguyên, như \"Tam nguyên Yên Đổ\" Nguyễn Khuyến. Tam khôi là Trạng nguyên, Bảng nhãn, Thám hoa."
+  },
+  {
+    "id": "d76",
+    "level": 2,
+    "topic": "Khoa cử",
+    "q": "Người đỗ đầu kỳ thi Hương được gọi là gì?",
+    "options": [
+      "Đình nguyên",
+      "Á nguyên",
+      "Giải nguyên",
+      "Hội nguyên"
+    ],
+    "answer": 2,
+    "explain": "Hội nguyên đỗ đầu thi Hội, Đình nguyên đỗ đầu thi Đình, Á nguyên đỗ thứ hai thi Hương."
+  },
+  {
+    "id": "d77",
+    "level": 2,
+    "topic": "Hán Việt",
+    "q": "Địa danh \"Hà Nội\" (河內) theo nghĩa Hán Việt có nghĩa là gì?",
+    "options": [
+      "Vùng đất nằm trong các con sông",
+      "Núi sông hùng vĩ",
+      "Bờ sông rộng",
+      "Thủ đô của nước"
+    ],
+    "answer": 0,
+    "explain": "\"Hà\" là sông, \"nội\" là bên trong: vùng đất nằm giữa các dòng sông."
+  },
+  {
+    "id": "d78",
+    "level": 2,
+    "topic": "Toán đố",
+    "q": "Ốc sên leo giếng sâu 10 m, ban ngày leo lên 3 m, ban đêm tụt xuống 2 m. Mất mấy ngày để lên tới miệng giếng?",
+    "options": [
+      "7 ngày",
+      "10 ngày",
+      "8 ngày",
+      "9 ngày"
+    ],
+    "answer": 2,
+    "explain": "Mỗi ngày đêm tiến thêm 1 m, sau 7 ngày đạt 7 m. Sáng ngày thứ 8 leo thêm 3 m là tới 10 m, không kịp tụt nữa."
+  },
+  {
+    "id": "d79",
+    "level": 2,
+    "topic": "Logic",
+    "q": "Lớp có 30 học sinh, 20 em thích bóng đá, 15 em thích bóng rổ, ai cũng thích ít nhất một môn. Có bao nhiêu em thích cả hai?",
+    "options": [
+      "0 em",
+      "15 em",
+      "10 em",
+      "5 em"
+    ],
+    "answer": 3,
+    "explain": "20 + 15 = 35 vượt quá 30, nên 5 em bị đếm hai lần."
+  },
+  {
+    "id": "d80",
+    "level": 2,
+    "topic": "Khoa học",
+    "q": "Vì sao mùa lạnh ta thấy \"khói\" trắng khi thở ra?",
+    "options": [
+      "Do bụi trong không khí",
+      "Khí cacbonic có màu trắng",
+      "Do cơ thể tỏa khói",
+      "Hơi nước trong hơi thở ngưng tụ thành giọt nhỏ"
+    ],
+    "answer": 3,
+    "explain": "Hơi thở ấm chứa nhiều hơi nước, gặp không khí lạnh thì ngưng tụ thành những giọt li ti."
+  }
+]
