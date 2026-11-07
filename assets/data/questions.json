@@ -1459,7 +1459,7 @@
     "id": "d25",
     "level": 2,
     "topic": "Địa lý",
-    "q": "Sa mạc lớn nhất thế giới là sa mạc nào?",
+    "q": "Hoang mạc lớn nhất thế giới là nơi nào?",
     "options": [
       "Gobi",
       "Sahara",
@@ -1467,7 +1467,7 @@
       "Ả Rập"
     ],
     "answer": 2,
-    "explain": "Sa mạc là nơi rất ít mưa chứ không nhất thiết nóng. Nam Cực lớn nhất, Sahara chỉ là sa mạc nóng lớn nhất."
+    "explain": "Hoang mạc là vùng rất ít mưa, không nhất thiết nóng. Nam Cực lớn nhất, còn Sahara là sa mạc (hoang mạc nóng) lớn nhất."
   },
   {
     "id": "d26",
