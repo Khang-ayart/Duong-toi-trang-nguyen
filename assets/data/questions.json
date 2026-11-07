@@ -10,7 +10,8 @@
       "Đinh Tiên Hoàng",
       "Lý Thái Tổ"
     ],
-    "answer": 3
+    "answer": 3,
+    "explain": "Năm 1010 Lý Thái Tổ dời đô về thành Đại La và đổi tên là Thăng Long (\"rồng bay lên\")."
   },
   {
     "id": "h02",
@@ -23,7 +24,8 @@
       "Kyoto",
       "Osaka"
     ],
-    "answer": 0
+    "answer": 0,
+    "explain": "Tokyo là thủ đô của Nhật Bản, trước năm 1868 có tên là Edo."
   },
   {
     "id": "h03",
@@ -36,7 +38,8 @@
       "132",
       "148"
     ],
-    "answer": 0
+    "answer": 0,
+    "explain": "12 × 12 = 144. Số 144 còn gọi là một \"gross\", tức 12 tá."
   },
   {
     "id": "h04",
@@ -49,7 +52,8 @@
       "Nguyễn Du",
       "Nguyễn Trãi"
     ],
-    "answer": 2
+    "answer": 2,
+    "explain": "Nguyễn Du viết Truyện Kiều đầu thế kỷ 19, gồm 3254 câu thơ lục bát."
   },
   {
     "id": "h05",
@@ -62,7 +66,8 @@
       "Sao Kim",
       "Sao Thủy"
     ],
-    "answer": 3
+    "answer": 3,
+    "explain": "Sao Thủy gần Mặt Trời nhất và cũng là hành tinh nhỏ nhất Hệ Mặt Trời."
   },
   {
     "id": "h06",
@@ -75,7 +80,8 @@
       "Hoàng Liên Sơn",
       "Bạch Mã"
     ],
-    "answer": 2
+    "answer": 2,
+    "explain": "Fansipan cao khoảng 3.143 m, đỉnh cao nhất Việt Nam, thuộc dãy Hoàng Liên Sơn."
   },
   {
     "id": "h07",
@@ -88,7 +94,8 @@
       "Tô Hoài",
       "Ngô Tất Tố"
     ],
-    "answer": 2
+    "answer": 2,
+    "explain": "Tô Hoài viết Dế Mèn phiêu lưu ký năm 1941, kể về chú dế Mèn đi khắp nơi."
   },
   {
     "id": "h08",
@@ -101,7 +108,8 @@
       "90 độ C",
       "80 độ C"
     ],
-    "answer": 0
+    "answer": 0,
+    "explain": "Nước sôi ở 100 độ C khi áp suất 1 atm. Lên núi cao áp suất thấp hơn nên nước sôi ở nhiệt độ thấp hơn."
   },
   {
     "id": "h09",
@@ -114,7 +122,8 @@
       "Tháng Hai",
       "Tháng Mười một"
     ],
-    "answer": 1
+    "answer": 1,
+    "explain": "Tết Nguyên Đán là mùng một tháng Giêng âm lịch, thường rơi vào cuối tháng 1 đến giữa tháng 2 dương lịch."
   },
   {
     "id": "h10",
@@ -127,7 +136,8 @@
       "Hồ Chí Minh",
       "Trường Chinh"
     ],
-    "answer": 2
+    "answer": 2,
+    "explain": "Ngày 2/9/1945 Hồ Chí Minh đọc Tuyên ngôn Độc lập, khai sinh nước Việt Nam Dân chủ Cộng hòa."
   },
   {
     "id": "h11",
@@ -140,7 +150,8 @@
       "90 độ",
       "270 độ"
     ],
-    "answer": 1
+    "answer": 1,
+    "explain": "Tổng ba góc trong của mọi tam giác (trên mặt phẳng) luôn bằng 180 độ."
   },
   {
     "id": "h12",
@@ -153,7 +164,8 @@
       "Châu Á",
       "Châu Mỹ"
     ],
-    "answer": 2
+    "answer": 2,
+    "explain": "Châu Á rộng khoảng 44 triệu km², chiếm gần một phần ba diện tích đất liền của Trái Đất."
   },
   {
     "id": "h13",
@@ -166,7 +178,8 @@
       "Nhà Tống",
       "Nhà Nguyên"
     ],
-    "answer": 0
+    "answer": 0,
+    "explain": "Năm 40, Hai Bà Trưng khởi nghĩa chống ách đô hộ của nhà Đông Hán do Tô Định cai trị."
   },
   {
     "id": "h14",
@@ -179,7 +192,8 @@
       "Khí ôxi",
       "Khí cacbonic"
     ],
-    "answer": 3
+    "answer": 3,
+    "explain": "Cây hấp thụ khí cacbonic (CO2) và thải ra khí oxy trong quá trình quang hợp."
   },
   {
     "id": "h15",
@@ -192,7 +206,8 @@
       "Đàn tranh",
       "Đàn bầu"
     ],
-    "answer": 3
+    "answer": 3,
+    "explain": "Đàn bầu chỉ có một dây, âm thanh được tạo ra nhờ việc uốn cần đàn bằng tay."
   },
   {
     "id": "h16",
@@ -205,7 +220,8 @@
       "lúa",
       "rau"
     ],
-    "answer": 0
+    "answer": 0,
+    "explain": "Câu tục ngữ dạy lòng biết ơn: hưởng thành quả thì phải nhớ người đã gây dựng nên."
   },
   {
     "id": "h17",
@@ -218,7 +234,8 @@
       "Tím",
       "Nâu"
     ],
-    "answer": 0
+    "answer": 0,
+    "explain": "Pha xanh dương với vàng ra xanh lá, giống cách pha màu trong hội họa."
   },
   {
     "id": "h18",
@@ -231,7 +248,8 @@
       "Cần Thơ",
       "Hải Phòng"
     ],
-    "answer": 3
+    "answer": 3,
+    "explain": "Hải Phòng được gọi như vậy vì hai bên đường trồng nhiều cây phượng vĩ nở hoa đỏ rực vào mùa hè."
   },
   {
     "id": "h19",
@@ -244,7 +262,8 @@
       "7 màu",
       "5 màu"
     ],
-    "answer": 2
+    "answer": 2,
+    "explain": "Cầu vồng thường được chia thành 7 màu: đỏ, cam, vàng, lục, lam, chàm, tím."
   },
   {
     "id": "h20",
@@ -257,7 +276,288 @@
       "Bánh xèo",
       "Bánh bao"
     ],
-    "answer": 1
+    "answer": 1,
+    "explain": "Bánh chưng hình vuông tượng trưng cho đất, gắn với truyền thuyết hoàng tử Lang Liêu."
+  },
+  {
+    "id": "h21",
+    "level": 0,
+    "topic": "Ca dao",
+    "q": "Điền vào chỗ trống: \"Bầu ơi thương lấy bí cùng, tuy rằng khác giống nhưng chung một ...\"",
+    "options": [
+      "nhà",
+      "giàn",
+      "vườn",
+      "cây"
+    ],
+    "answer": 1,
+    "explain": "Ca dao khuyên người cùng một nước phải thương yêu đùm bọc nhau như bầu bí chung một giàn."
+  },
+  {
+    "id": "h22",
+    "level": 0,
+    "topic": "Tục ngữ",
+    "q": "Điền vào chỗ trống: \"Có công mài sắt, có ngày nên ...\"",
+    "options": [
+      "kim",
+      "kiếm",
+      "búa",
+      "dao"
+    ],
+    "answer": 0,
+    "explain": "Kiên trì thì việc khó đến mấy cũng thành, như mài cả thanh sắt thành chiếc kim."
+  },
+  {
+    "id": "h23",
+    "level": 0,
+    "topic": "Văn hóa",
+    "q": "Tết Trung thu của người Việt vào ngày nào theo âm lịch?",
+    "options": [
+      "Mùng 1 tháng Giêng",
+      "Rằm tháng Bảy",
+      "Rằm tháng Tám",
+      "Mùng 5 tháng Năm"
+    ],
+    "answer": 2,
+    "explain": "Trung thu còn gọi là Tết Đoàn viên, trẻ em rước đèn và phá cỗ dưới trăng rằm."
+  },
+  {
+    "id": "h24",
+    "level": 0,
+    "topic": "Thơ ca",
+    "q": "Bài thơ \"Việt Bắc\" là của nhà thơ nào?",
+    "options": [
+      "Xuân Diệu",
+      "Chế Lan Viên",
+      "Tố Hữu",
+      "Huy Cận"
+    ],
+    "answer": 2,
+    "explain": "Tố Hữu viết Việt Bắc năm 1954, khi cán bộ kháng chiến rời chiến khu về Hà Nội."
+  },
+  {
+    "id": "h25",
+    "level": 0,
+    "topic": "Thơ ca",
+    "q": "\"Nam quốc sơn hà\" được coi là gì trong lịch sử nước ta?",
+    "options": [
+      "Bài vè dân gian về mùa vụ",
+      "Bản tuyên ngôn độc lập đầu tiên",
+      "Bài văn tế các anh hùng",
+      "Bài thơ tình đầu tiên"
+    ],
+    "answer": 1,
+    "explain": "Tương truyền bài thơ vang lên bên sông Như Nguyệt khi quân Lý đánh quân Tống."
+  },
+  {
+    "id": "h26",
+    "level": 0,
+    "topic": "Địa lý",
+    "q": "Dòng sông nào chảy qua thủ đô Hà Nội?",
+    "options": [
+      "Sông Tiền",
+      "Sông Hương",
+      "Sông Hồng",
+      "Sông Bến Hải"
+    ],
+    "answer": 2,
+    "explain": "Hà Nội nằm bên sông Hồng. Sông Hương ở Huế, sông Tiền ở Nam Bộ."
+  },
+  {
+    "id": "h27",
+    "level": 0,
+    "topic": "Khoa học",
+    "q": "Khí nào có nồng độ trong hơi thở ra cao hơn hẳn so với khi hít vào?",
+    "options": [
+      "Khí hydro",
+      "Khí cacbonic",
+      "Khí nitơ",
+      "Khí oxy"
+    ],
+    "answer": 1,
+    "explain": "Hơi thở ra chứa khoảng 4% CO2, cao hơn khoảng 100 lần so với không khí hít vào."
+  },
+  {
+    "id": "h28",
+    "level": 0,
+    "topic": "Toán học",
+    "q": "Một tuần lễ có bao nhiêu giờ?",
+    "options": [
+      "148 giờ",
+      "168 giờ",
+      "172 giờ",
+      "156 giờ"
+    ],
+    "answer": 1,
+    "explain": "7 ngày × 24 giờ = 168 giờ."
+  },
+  {
+    "id": "h29",
+    "level": 0,
+    "topic": "Lịch sử",
+    "q": "Triều đại phong kiến cuối cùng của Việt Nam là triều nào?",
+    "options": [
+      "Nhà Lê",
+      "Nhà Nguyễn",
+      "Nhà Trần",
+      "Nhà Lý"
+    ],
+    "answer": 1,
+    "explain": "Nhà Nguyễn tồn tại từ năm 1802 đến khi vua Bảo Đại thoái vị năm 1945."
+  },
+  {
+    "id": "h30",
+    "level": 0,
+    "topic": "Ca dao",
+    "q": "Điền vào chỗ trống: \"Một cây làm chẳng nên non, ba cây chụm lại nên hòn ... cao.\"",
+    "options": [
+      "đá",
+      "gò",
+      "đồi",
+      "núi"
+    ],
+    "answer": 3,
+    "explain": "Câu ca dao đề cao sức mạnh của đoàn kết: một người làm không xong, nhiều người chung sức thì nên việc lớn."
+  },
+  {
+    "id": "h31",
+    "level": 0,
+    "topic": "Tục ngữ",
+    "q": "Điền vào chỗ trống: \"Lá lành đùm lá ...\"",
+    "options": [
+      "úa",
+      "dập",
+      "rách",
+      "héo"
+    ],
+    "answer": 2,
+    "explain": "Khuyên người có hoàn cảnh tốt giúp đỡ người gặp khó khăn."
+  },
+  {
+    "id": "h32",
+    "level": 0,
+    "topic": "Địa lý",
+    "q": "Đảo nào là đảo lớn nhất của Việt Nam?",
+    "options": [
+      "Côn Đảo",
+      "Lý Sơn",
+      "Cát Bà",
+      "Phú Quốc"
+    ],
+    "answer": 3,
+    "explain": "Phú Quốc rộng hơn 500 km², lớn nhất trong các đảo của nước ta."
+  },
+  {
+    "id": "h33",
+    "level": 0,
+    "topic": "Động vật",
+    "q": "Loài chim nào lớn nhất thế giới, không biết bay nhưng chạy rất nhanh?",
+    "options": [
+      "Hồng hạc",
+      "Đại bàng",
+      "Đà điểu",
+      "Chim cánh cụt"
+    ],
+    "answer": 2,
+    "explain": "Đà điểu cao tới khoảng 2,5 m và có thể chạy khoảng 70 km/h."
+  },
+  {
+    "id": "h34",
+    "level": 0,
+    "topic": "Văn học",
+    "q": "Tiểu thuyết \"Tắt đèn\" với nhân vật chị Dậu là của nhà văn nào?",
+    "options": [
+      "Ngô Tất Tố",
+      "Nam Cao",
+      "Vũ Trọng Phụng",
+      "Nguyên Hồng"
+    ],
+    "answer": 0,
+    "explain": "Tắt đèn (1937) phản ánh cảnh nông dân bị sưu thuế đè nặng thời thuộc Pháp."
+  },
+  {
+    "id": "h35",
+    "level": 0,
+    "topic": "Văn hóa",
+    "q": "Hát Xoan, di sản được UNESCO ghi danh, gắn liền với tỉnh nào?",
+    "options": [
+      "Thanh Hóa",
+      "Quảng Nam",
+      "Nghệ An",
+      "Phú Thọ"
+    ],
+    "answer": 3,
+    "explain": "Hát Xoan là lối hát thờ các vua Hùng, có ở vùng đất Tổ Phú Thọ."
+  },
+  {
+    "id": "h36",
+    "level": 0,
+    "topic": "Toán học",
+    "q": "Hình vuông có cạnh dài 5 cm thì chu vi là bao nhiêu?",
+    "options": [
+      "15 cm",
+      "25 cm",
+      "20 cm",
+      "10 cm"
+    ],
+    "answer": 2,
+    "explain": "Chu vi = 4 × 5 = 20 cm. Con số 25 là diện tích (25 cm²), đừng nhầm."
+  },
+  {
+    "id": "h37",
+    "level": 0,
+    "topic": "Đời sống",
+    "q": "Trong một năm dương lịch bình thường có bao nhiêu tháng có 31 ngày?",
+    "options": [
+      "5 tháng",
+      "6 tháng",
+      "7 tháng",
+      "8 tháng"
+    ],
+    "answer": 2,
+    "explain": "Đó là các tháng 1, 3, 5, 7, 8, 10 và 12."
+  },
+  {
+    "id": "h38",
+    "level": 0,
+    "topic": "Ngôn ngữ",
+    "q": "Từ nào trái nghĩa với từ \"siêng năng\"?",
+    "options": [
+      "tháo vát",
+      "cần cù",
+      "chăm chỉ",
+      "lười biếng"
+    ],
+    "answer": 3,
+    "explain": "Chăm chỉ và cần cù đều đồng nghĩa với siêng năng, chỉ \"lười biếng\" mới trái nghĩa."
+  },
+  {
+    "id": "h39",
+    "level": 0,
+    "topic": "Thiên văn",
+    "q": "Trái Đất quay quanh Mặt Trời một vòng hết khoảng bao lâu?",
+    "options": [
+      "Khoảng 365 ngày",
+      "Khoảng 30 ngày",
+      "Khoảng 10 năm",
+      "Khoảng 24 giờ"
+    ],
+    "answer": 0,
+    "explain": "Vì thế cứ khoảng 4 năm lại có thêm một năm nhuận 366 ngày."
+  },
+  {
+    "id": "h40",
+    "level": 0,
+    "topic": "Văn học",
+    "q": "Điền vào chỗ trống trong câu mở đầu Truyện Kiều: \"Trăm năm trong cõi ...\"",
+    "options": [
+      "nhân gian",
+      "người ta",
+      "trần ai",
+      "thế gian"
+    ],
+    "answer": 1,
+    "explain": "Câu mở đầu bàn về kiếp người và chữ tài, chữ mệnh, là lời dẫn vào cả tác phẩm."
   },
   {
     "id": "m01",
@@ -270,7 +570,8 @@
       "Ngô Quyền",
       "Đinh Bộ Lĩnh"
     ],
-    "answer": 2
+    "answer": 2,
+    "explain": "Ngô Quyền đánh tan quân Nam Hán trên sông Bạch Đằng năm 938 bằng trận địa cọc ngầm, mở ra thời kỳ độc lập."
   },
   {
     "id": "m02",
@@ -283,7 +584,8 @@
       "Nhà Lê",
       "Nhà Nguyễn"
     ],
-    "answer": 0
+    "answer": 0,
+    "explain": "Hội nghị Diên Hồng năm 1284 triệu tập các bô lão để hỏi nên hòa hay đánh quân Nguyên. Tất cả hô \"Đánh!\"."
   },
   {
     "id": "m03",
@@ -296,7 +598,8 @@
       "Lê Thánh Tông",
       "Trần Hưng Đạo"
     ],
-    "answer": 0
+    "answer": 0,
+    "explain": "Bình Ngô đại cáo viết năm 1428 sau khi đánh thắng quân Minh, được coi là bản tuyên ngôn độc lập thứ hai của nước ta."
   },
   {
     "id": "m04",
@@ -309,7 +612,8 @@
       "Hoa Kỳ",
       "Trung Quốc"
     ],
-    "answer": 0
+    "answer": 0,
+    "explain": "Nga rộng khoảng 17 triệu km², lớn nhất thế giới, trải dài trên hai châu lục Âu và Á."
   },
   {
     "id": "m05",
@@ -322,7 +626,8 @@
       "12",
       "15"
     ],
-    "answer": 1
+    "answer": 1,
+    "explain": "13 × 13 = 169 nên căn bậc hai của 169 là 13."
   },
   {
     "id": "m06",
@@ -335,7 +640,8 @@
       "Flo",
       "Đồng"
     ],
-    "answer": 1
+    "answer": 1,
+    "explain": "Ký hiệu Fe lấy từ tiếng Latin \"ferrum\", nghĩa là sắt."
   },
   {
     "id": "m07",
@@ -348,7 +654,8 @@
       "Pascal",
       "Niutơn"
     ],
-    "answer": 3
+    "answer": 3,
+    "explain": "Niutơn (N) đặt theo tên nhà khoa học Isaac Newton. 1 N là lực làm vật 1 kg tăng tốc 1 m/s²."
   },
   {
     "id": "m08",
@@ -361,7 +668,8 @@
       "Nghệ An",
       "Quảng Nam"
     ],
-    "answer": 1
+    "answer": 1,
+    "explain": "Quan họ Bắc Ninh được UNESCO ghi danh là di sản văn hóa phi vật thể năm 2009."
   },
   {
     "id": "m09",
@@ -374,7 +682,8 @@
       "Sông Mã",
       "Sông Đà"
     ],
-    "answer": 0
+    "answer": 0,
+    "explain": "Cố đô Huế nằm hai bên bờ sông Hương, nơi có kinh thành và các lăng tẩm triều Nguyễn."
   },
   {
     "id": "m10",
@@ -387,7 +696,8 @@
       "1804",
       "1815"
     ],
-    "answer": 0
+    "answer": 0,
+    "explain": "Ngày 14/7/1789 dân Paris chiếm ngục Bastille, mở màn cho Cách mạng Pháp."
   },
   {
     "id": "m11",
@@ -400,7 +710,8 @@
       "Mặt trời mặt trăng",
       "Gió mây"
     ],
-    "answer": 1
+    "answer": 1,
+    "explain": "\"Sơn\" là núi, \"hà\" là sông. Ghép lại \"sơn hà\" chỉ đất nước, như trong \"Nam quốc sơn hà\"."
   },
   {
     "id": "m12",
@@ -413,7 +724,8 @@
       "Sống thanh nhàn, ung dung",
       "Hay sợ hãi, nhút nhát"
     ],
-    "answer": 0
+    "answer": 0,
+    "explain": "Ếch quanh năm trong giếng nên tưởng bầu trời chỉ rộng bằng cái vung."
   },
   {
     "id": "m13",
@@ -426,7 +738,8 @@
       "0",
       "2"
     ],
-    "answer": 3
+    "answer": 3,
+    "explain": "2 là số nguyên tố nhỏ nhất, đồng thời là số nguyên tố chẵn duy nhất."
   },
   {
     "id": "m14",
@@ -439,7 +752,8 @@
       "Nhân tế bào",
       "Không bào"
     ],
-    "answer": 2
+    "answer": 2,
+    "explain": "ADN chủ yếu nằm trong nhân tế bào. Vi khuẩn không có nhân hoàn chỉnh nên ADN nằm trong vùng nhân."
   },
   {
     "id": "m15",
@@ -452,7 +766,8 @@
       "Victor Hugo",
       "Molière"
     ],
-    "answer": 2
+    "answer": 2,
+    "explain": "Victor Hugo viết Những người khốn khổ, xuất bản năm 1862, với nhân vật Jean Valjean."
   },
   {
     "id": "m16",
@@ -465,7 +780,8 @@
       "1945",
       "1975"
     ],
-    "answer": 1
+    "answer": 1,
+    "explain": "Chiến dịch kết thúc ngày 7/5/1954, mở đường cho Hiệp định Genève."
   },
   {
     "id": "m17",
@@ -478,7 +794,8 @@
       "Đại Tây Dương và Thái Bình Dương",
       "Biển Đen và Biển Caspi"
     ],
-    "answer": 0
+    "answer": 0,
+    "explain": "Kênh đào Suez (Ai Cập) mở năm 1869, giúp tàu đi từ châu Âu sang châu Á không cần vòng qua châu Phi."
   },
   {
     "id": "m18",
@@ -491,7 +808,8 @@
       "Trịnh Công Sơn",
       "Phạm Tuyên"
     ],
-    "answer": 1
+    "answer": 1,
+    "explain": "Văn Cao sáng tác Tiến quân ca năm 1944, sau được chọn làm quốc ca."
   },
   {
     "id": "m19",
@@ -504,7 +822,8 @@
       "Chân không",
       "Thép"
     ],
-    "answer": 3
+    "answer": 3,
+    "explain": "Âm thanh truyền nhanh nhất trong chất rắn (thép khoảng 5.000 m/s), chậm nhất trong chất khí."
   },
   {
     "id": "m20",
@@ -517,7 +836,288 @@
       "London",
       "Athens"
     ],
-    "answer": 3
+    "answer": 3,
+    "explain": "Thế vận hội hiện đại đầu tiên tổ chức năm 1896 tại Athens, Hy Lạp, quê hương của Thế vận hội cổ đại."
+  },
+  {
+    "id": "m21",
+    "level": 1,
+    "topic": "Ca dao",
+    "q": "Điền vào chỗ trống: \"Ai ơi giữ chí cho bền, dù ai xoay hướng đổi ... mặc ai.\"",
+    "options": [
+      "nền",
+      "thay",
+      "đường",
+      "lòng"
+    ],
+    "answer": 0,
+    "explain": "Lời khuyên giữ vững ý chí, không dao động trước lời bàn tán của người khác."
+  },
+  {
+    "id": "m22",
+    "level": 1,
+    "topic": "Tục ngữ",
+    "q": "Tục ngữ \"Nước chảy đá mòn\" muốn nói điều gì?",
+    "options": [
+      "Đá yếu hơn nước",
+      "Nên tránh xa dòng sông",
+      "Làm việc phải nhanh chóng",
+      "Kiên trì bền bỉ thì việc lớn cũng thành"
+    ],
+    "answer": 3,
+    "explain": "Nước chảy lâu ngày làm mòn cả đá, ý nói sức mạnh của sự bền bỉ."
+  },
+  {
+    "id": "m23",
+    "level": 1,
+    "topic": "Tục ngữ",
+    "q": "Điền vào chỗ trống: \"Tốt gỗ hơn tốt nước ...\"",
+    "options": [
+      "vẽ",
+      "sơn",
+      "màu",
+      "bóng"
+    ],
+    "answer": 1,
+    "explain": "Phẩm chất bên trong quan trọng hơn vẻ bề ngoài, cũng như gỗ tốt hơn lớp sơn đẹp."
+  },
+  {
+    "id": "m24",
+    "level": 1,
+    "topic": "Thơ ca",
+    "q": "Bài thơ \"Tràng giang\" với nỗi buồn mênh mang trước sông nước là của ai?",
+    "options": [
+      "Huy Cận",
+      "Hàn Mặc Tử",
+      "Chế Lan Viên",
+      "Xuân Diệu"
+    ],
+    "answer": 0,
+    "explain": "Tràng giang in trong tập \"Lửa thiêng\" (1940), nổi bật với màu sắc cổ điển pha hiện đại."
+  },
+  {
+    "id": "m25",
+    "level": 1,
+    "topic": "Thơ ca",
+    "q": "Bài thơ \"Đây thôn Vĩ Dạ\" là của nhà thơ nào?",
+    "options": [
+      "Tố Hữu",
+      "Hàn Mặc Tử",
+      "Nguyễn Bính",
+      "Huy Cận"
+    ],
+    "answer": 1,
+    "explain": "Vĩ Dạ là một làng ven sông Hương ở Huế, nơi gợi cảm hứng cho bài thơ."
+  },
+  {
+    "id": "m26",
+    "level": 1,
+    "topic": "Thơ ca",
+    "q": "\"Bánh trôi nước\" là bài thơ Nôm của tác giả nào?",
+    "options": [
+      "Bà Huyện Thanh Quan",
+      "Đoàn Thị Điểm",
+      "Hồ Xuân Hương",
+      "Nguyễn Khuyến"
+    ],
+    "answer": 2,
+    "explain": "Hồ Xuân Hương được gọi là \"Bà chúa thơ Nôm\", bài thơ nói về thân phận người phụ nữ."
+  },
+  {
+    "id": "m27",
+    "level": 1,
+    "topic": "Thơ ca",
+    "q": "Bài thơ \"Thu điếu\" (Câu cá mùa thu) là của nhà thơ nào?",
+    "options": [
+      "Nguyễn Du",
+      "Nguyễn Trãi",
+      "Tú Xương",
+      "Nguyễn Khuyến"
+    ],
+    "answer": 3,
+    "explain": "Nguyễn Khuyến có chùm thơ thu gồm Thu điếu, Thu vịnh, Thu ẩm, nổi tiếng với cảnh làng quê Bắc Bộ."
+  },
+  {
+    "id": "m28",
+    "level": 1,
+    "topic": "Lịch sử",
+    "q": "Ai là người sáng lập ra nhà Hồ vào năm 1400?",
+    "options": [
+      "Trần Thủ Độ",
+      "Hồ Quý Ly",
+      "Lê Lợi",
+      "Mạc Đăng Dung"
+    ],
+    "answer": 1,
+    "explain": "Hồ Quý Ly đặt quốc hiệu là Đại Ngu và dời đô về Thanh Hóa (thành Tây Đô)."
+  },
+  {
+    "id": "m29",
+    "level": 1,
+    "topic": "Lịch sử",
+    "q": "Sau khi lên ngôi hoàng đế năm 1788, Nguyễn Huệ lấy niên hiệu là gì?",
+    "options": [
+      "Quang Trung",
+      "Cảnh Thịnh",
+      "Thái Đức",
+      "Gia Long"
+    ],
+    "answer": 0,
+    "explain": "Thái Đức là niên hiệu của Nguyễn Nhạc, Cảnh Thịnh của Quang Toản, Gia Long của Nguyễn Ánh."
+  },
+  {
+    "id": "m30",
+    "level": 1,
+    "topic": "Địa lý",
+    "q": "Thủ đô của nước Úc là thành phố nào?",
+    "options": [
+      "Perth",
+      "Canberra",
+      "Melbourne",
+      "Sydney"
+    ],
+    "answer": 1,
+    "explain": "Sydney và Melbourne tranh nhau vị trí thủ đô, nên người ta xây Canberra ở giữa làm giải pháp dung hòa."
+  },
+  {
+    "id": "m31",
+    "level": 1,
+    "topic": "Hóa học",
+    "q": "Công thức hóa học của muối ăn là gì?",
+    "options": [
+      "NaOH",
+      "KCl",
+      "CaCO3",
+      "NaCl"
+    ],
+    "answer": 3,
+    "explain": "Muối ăn là natri clorua, gồm natri (Na) và clo (Cl)."
+  },
+  {
+    "id": "m32",
+    "level": 1,
+    "topic": "Vật lý",
+    "q": "Tốc độ ánh sáng trong chân không xấp xỉ bao nhiêu?",
+    "options": [
+      "30.000 km/s",
+      "300.000 km/s",
+      "340 m/s",
+      "3.000.000 km/s"
+    ],
+    "answer": 1,
+    "explain": "Khoảng 299.792 km/s. Con số 340 m/s là tốc độ âm thanh trong không khí."
+  },
+  {
+    "id": "m33",
+    "level": 1,
+    "topic": "Sinh học",
+    "q": "Cơ quan lớn nhất của cơ thể người là gì?",
+    "options": [
+      "Gan",
+      "Da",
+      "Ruột non",
+      "Phổi"
+    ],
+    "answer": 1,
+    "explain": "Da là cơ quan lớn nhất. Gan là cơ quan nội tạng lớn nhất."
+  },
+  {
+    "id": "m34",
+    "level": 1,
+    "topic": "Ngôn ngữ",
+    "q": "Thành ngữ \"Nước đổ đầu vịt\" ám chỉ điều gì?",
+    "options": [
+      "Thời tiết mưa nhiều",
+      "Nói mãi mà người nghe không tiếp thu",
+      "Làm việc rất nhanh",
+      "Người hay quên đồ vật"
+    ],
+    "answer": 1,
+    "explain": "Nước đổ lên đầu vịt thì trôi tuột đi, chẳng đọng lại chút nào."
+  },
+  {
+    "id": "m35",
+    "level": 1,
+    "topic": "Ngôn ngữ",
+    "q": "Thành ngữ \"Cưỡi ngựa xem hoa\" chỉ cách làm việc như thế nào?",
+    "options": [
+      "Xem qua loa, không đi sâu",
+      "Làm việc rất công phu",
+      "Biết hưởng thụ cuộc sống",
+      "Đi du lịch nhiều nơi"
+    ],
+    "answer": 0,
+    "explain": "Ngựa chạy nhanh nên người cưỡi chỉ thấy hoa lướt qua, không kịp ngắm kỹ."
+  },
+  {
+    "id": "m36",
+    "level": 1,
+    "topic": "Toán học",
+    "q": "2 mũ 10 (2^10) bằng bao nhiêu?",
+    "options": [
+      "1000",
+      "1024",
+      "512",
+      "2048"
+    ],
+    "answer": 1,
+    "explain": "1024 là con số quen thuộc trong tin học, ví dụ 1 KB = 1024 byte theo cách tính nhị phân."
+  },
+  {
+    "id": "m37",
+    "level": 1,
+    "topic": "Văn học",
+    "q": "Tiểu thuyết \"Ông già và biển cả\" là của nhà văn nào?",
+    "options": [
+      "Mark Twain",
+      "Jack London",
+      "John Steinbeck",
+      "Ernest Hemingway"
+    ],
+    "answer": 3,
+    "explain": "Tác phẩm góp phần giúp Hemingway nhận giải Nobel Văn học năm 1954."
+  },
+  {
+    "id": "m38",
+    "level": 1,
+    "topic": "Văn hóa",
+    "q": "Việt Nam có bao nhiêu dân tộc?",
+    "options": [
+      "63 dân tộc",
+      "54 dân tộc",
+      "56 dân tộc",
+      "52 dân tộc"
+    ],
+    "answer": 1,
+    "explain": "Có 54 dân tộc anh em, trong đó dân tộc Kinh (Việt) chiếm đa số."
+  },
+  {
+    "id": "m39",
+    "level": 1,
+    "topic": "Lịch sử",
+    "q": "Chiến tranh thế giới thứ hai kết thúc vào năm nào?",
+    "options": [
+      "1950",
+      "1941",
+      "1939",
+      "1945"
+    ],
+    "answer": 3,
+    "explain": "Châu Âu kết thúc tháng 5/1945, Nhật Bản đầu hàng tháng 8/1945."
+  },
+  {
+    "id": "m40",
+    "level": 1,
+    "topic": "Địa lý",
+    "q": "Thủ đô của Brazil là thành phố nào?",
+    "options": [
+      "Brasília",
+      "Rio de Janeiro",
+      "Salvador",
+      "São Paulo"
+    ],
+    "answer": 0,
+    "explain": "Brasília được xây dựng và khánh thành năm 1960, thay Rio de Janeiro làm thủ đô."
   },
   {
     "id": "d01",
@@ -530,7 +1130,8 @@
       "2 quả",
       "1 quả"
     ],
-    "answer": 2
+    "answer": 2,
+    "explain": "Bạn đã lấy đi 2 quả thì đang cầm 2 quả. Số táo còn lại trong giỏ mới là 1."
   },
   {
     "id": "d02",
@@ -543,7 +1144,8 @@
       "1 phút",
       "20 phút"
     ],
-    "answer": 0
+    "answer": 0,
+    "explain": "Mỗi máy mất 5 phút làm ra 1 sản phẩm, nên 100 máy làm 100 sản phẩm vẫn mất 5 phút."
   },
   {
     "id": "d03",
@@ -556,7 +1158,8 @@
       "500 đồng",
       "1.000 đồng"
     ],
-    "answer": 2
+    "answer": 2,
+    "explain": "Bút 500 đồng, vở 10.500 đồng, tổng 11.000 đồng. Nhiều người nhầm là bút 1.000 đồng."
   },
   {
     "id": "d04",
@@ -569,7 +1172,8 @@
       "xơ suất",
       "xơ xuất"
     ],
-    "answer": 1
+    "answer": 1,
+    "explain": "\"Sơ suất\" nghĩa là sai sót do thiếu cẩn thận. \"Suất\" trong từ này viết với \"s\"."
   },
   {
     "id": "d05",
@@ -582,7 +1186,8 @@
       "6 km",
       "7 km"
     ],
-    "answer": 1
+    "answer": 1,
+    "explain": "Hai cạnh vuông góc 3 km và 4 km tạo tam giác vuông, theo định lý Pytago cạnh huyền là 5 km."
   },
   {
     "id": "d06",
@@ -595,7 +1200,8 @@
       "12 tháng",
       "2 tháng"
     ],
-    "answer": 2
+    "answer": 2,
+    "explain": "Tháng ngắn nhất là tháng 2 có 28 ngày, nên cả 12 tháng đều có ít nhất 28 ngày."
   },
   {
     "id": "d07",
@@ -608,7 +1214,8 @@
       "Mai",
       "Thu"
     ],
-    "answer": 2
+    "answer": 2,
+    "explain": "Đề nói \"mẹ của Mai\", nên Mai cũng là một trong ba người con."
   },
   {
     "id": "d08",
@@ -621,7 +1228,8 @@
       "15",
       "21"
     ],
-    "answer": 1
+    "answer": 1,
+    "explain": "Đây là dãy các số nguyên tố liên tiếp, sau 13 là 17."
   },
   {
     "id": "d09",
@@ -634,7 +1242,8 @@
       "Ngọn nến",
       "Cái bánh"
     ],
-    "answer": 1
+    "answer": 1,
+    "explain": "Lấy đất đi càng nhiều thì cái hố càng to."
   },
   {
     "id": "d10",
@@ -647,7 +1256,8 @@
       "12 giây",
       "15 giây"
     ],
-    "answer": 3
+    "answer": 3,
+    "explain": "3 tiếng có 2 quãng nghỉ (6 s ÷ 2 = 3 s mỗi quãng). 6 tiếng có 5 quãng nghỉ nên mất 15 giây."
   },
   {
     "id": "d11",
@@ -660,7 +1270,8 @@
       "1900",
       "2000"
     ],
-    "answer": 3
+    "answer": 3,
+    "explain": "Năm nhuận chia hết cho 4, riêng năm tròn trăm phải chia hết cho 400. 2000 là năm nhuận, 1900, 2100, 2200 thì không."
   },
   {
     "id": "d12",
@@ -673,7 +1284,8 @@
       "Việt Nam",
       "Lào"
     ],
-    "answer": 3
+    "answer": 3,
+    "explain": "Lào là nước duy nhất ở Đông Nam Á không giáp biển."
   },
   {
     "id": "d13",
@@ -686,7 +1298,8 @@
       "Từ Hải",
       "Thúc Sinh"
     ],
-    "answer": 0
+    "answer": 0,
+    "explain": "Vương Quan là em trai Thúy Kiều. Thúy Vân là em gái."
   },
   {
     "id": "d14",
@@ -699,7 +1312,8 @@
       "700",
       "99"
     ],
-    "answer": 1
+    "answer": 1,
+    "explain": "Bất kỳ số nào nhân với 0 cũng bằng 0, dù các thừa số khác lớn đến đâu."
   },
   {
     "id": "d15",
@@ -712,7 +1326,8 @@
       "Thứ nhất",
       "Cuối cùng"
     ],
-    "answer": 1
+    "answer": 1,
+    "explain": "Vượt người thứ hai nghĩa là bạn chiếm chỗ của họ, tức thứ hai. Bạn chưa vượt người thứ nhất."
   },
   {
     "id": "d16",
@@ -725,7 +1340,8 @@
       "28",
       "26"
     ],
-    "answer": 1
+    "answer": 1,
+    "explain": "Bảng chữ cái tiếng Việt có 29 chữ cái, trong đó có ă, â, đ, ê, ô, ơ, ư."
   },
   {
     "id": "d17",
@@ -738,7 +1354,8 @@
       "Màu đen",
       "Màu xám"
     ],
-    "answer": 0
+    "answer": 0,
+    "explain": "Nhà có cả bốn mặt hướng Nam chỉ có thể ở Bắc Cực, nên con gấu là gấu trắng."
   },
   {
     "id": "d18",
@@ -751,7 +1368,8 @@
       "Một người làm việc của hai người",
       "Một việc phải làm hai lần"
     ],
-    "answer": 1
+    "answer": 1,
+    "explain": "\"Nhất cử lưỡng tiện\" gần nghĩa với \"một công đôi việc\", \"một mũi tên trúng hai đích\"."
   },
   {
     "id": "d19",
@@ -764,7 +1382,8 @@
       "Vì nước đá có độ nhớt lớn hơn",
       "Vì nước đá có khối lượng riêng nhỏ hơn nước lỏng"
     ],
-    "answer": 3
+    "answer": 3,
+    "explain": "Nước đóng băng thì thể tích tăng nên khối lượng riêng giảm (khoảng 0,92 so với 1), vì vậy băng nổi."
   },
   {
     "id": "d20",
@@ -777,6 +1396,287 @@
       "Đông chí",
       "Hạ chí"
     ],
-    "answer": 3
+    "answer": 3,
+    "explain": "Hạ chí (khoảng 21 hoặc 22/6) có ban ngày dài nhất ở Bắc bán cầu, ngược lại với Nam bán cầu."
+  },
+  {
+    "id": "d21",
+    "level": 2,
+    "topic": "Địa lý",
+    "q": "Nếu tính từ chân núi (đáy biển) lên đến đỉnh, ngọn núi nào cao nhất thế giới?",
+    "options": [
+      "K2",
+      "Kilimanjaro",
+      "Mauna Kea",
+      "Everest"
+    ],
+    "answer": 2,
+    "explain": "Everest cao nhất so với mực nước biển. Mauna Kea (Hawaii) tính từ đáy biển cao hơn 10.000 m nhưng phần lớn chìm dưới nước."
+  },
+  {
+    "id": "d22",
+    "level": 2,
+    "topic": "Địa lý",
+    "q": "Đỉnh núi nào là điểm xa tâm Trái Đất nhất?",
+    "options": [
+      "Everest",
+      "Chimborazo",
+      "Mauna Kea",
+      "Aconcagua"
+    ],
+    "answer": 1,
+    "explain": "Trái Đất phình ra ở xích đạo nên Chimborazo (Ecuador), dù thấp hơn Everest, lại xa tâm Trái Đất hơn."
+  },
+  {
+    "id": "d23",
+    "level": 2,
+    "topic": "Địa lý",
+    "q": "Quốc gia nào có nhiều múi giờ nhất thế giới?",
+    "options": [
+      "Nga",
+      "Mỹ",
+      "Pháp",
+      "Trung Quốc"
+    ],
+    "answer": 2,
+    "explain": "Nhờ các vùng lãnh thổ hải ngoại, Pháp có 12 múi giờ, nhiều hơn Nga (11). Trung Quốc chỉ dùng một giờ chuẩn."
+  },
+  {
+    "id": "d24",
+    "level": 2,
+    "topic": "Sinh học",
+    "q": "Con vật nào sau đây có tới 3 trái tim?",
+    "options": [
+      "Bạch tuộc",
+      "Cá mập",
+      "Rùa",
+      "Cá heo"
+    ],
+    "answer": 0,
+    "explain": "Hai tim bơm máu qua mang, một tim bơm máu đi nuôi cơ thể."
+  },
+  {
+    "id": "d25",
+    "level": 2,
+    "topic": "Địa lý",
+    "q": "Sa mạc lớn nhất thế giới là sa mạc nào?",
+    "options": [
+      "Gobi",
+      "Sahara",
+      "Nam Cực",
+      "Ả Rập"
+    ],
+    "answer": 2,
+    "explain": "Sa mạc là nơi rất ít mưa chứ không nhất thiết nóng. Nam Cực lớn nhất, Sahara chỉ là sa mạc nóng lớn nhất."
+  },
+  {
+    "id": "d26",
+    "level": 2,
+    "topic": "Lịch sử",
+    "q": "\"Chiến tranh Trăm năm\" giữa Anh và Pháp thực tế kéo dài bao lâu?",
+    "options": [
+      "99 năm",
+      "116 năm",
+      "120 năm",
+      "100 năm"
+    ],
+    "answer": 1,
+    "explain": "Cuộc chiến kéo dài từ năm 1337 đến 1453 nên tên gọi chỉ là con số tròn."
+  },
+  {
+    "id": "d27",
+    "level": 2,
+    "topic": "Thiên văn",
+    "q": "Hành tinh nào nóng nhất Hệ Mặt Trời?",
+    "options": [
+      "Sao Mộc",
+      "Sao Thủy",
+      "Sao Hỏa",
+      "Sao Kim"
+    ],
+    "answer": 3,
+    "explain": "Sao Thủy gần Mặt Trời hơn, nhưng khí quyển CO2 dày của Sao Kim giữ nhiệt nên bề mặt nóng khoảng 465 độ C."
+  },
+  {
+    "id": "d28",
+    "level": 2,
+    "topic": "Toán học",
+    "q": "Số 0,999... (chín lặp vô hạn) so với số 1 thế nào?",
+    "options": [
+      "Lớn hơn 1",
+      "Bằng nhau",
+      "Không so sánh được",
+      "Nhỏ hơn 1 một chút"
+    ],
+    "answer": 1,
+    "explain": "Về mặt toán học 0,999... chính xác bằng 1. Ví dụ 1/3 = 0,333..., nhân 3 hai vế được 1 = 0,999..."
+  },
+  {
+    "id": "d29",
+    "level": 2,
+    "topic": "Toán đố",
+    "q": "Lấy 30 chia cho 1/2 rồi cộng thêm 10. Kết quả là bao nhiêu?",
+    "options": [
+      "40",
+      "25",
+      "70",
+      "15"
+    ],
+    "answer": 2,
+    "explain": "Chia cho 1/2 tức là nhân 2, không phải chia đôi: 30 × 2 = 60, cộng 10 được 70."
+  },
+  {
+    "id": "d30",
+    "level": 2,
+    "topic": "Đố mẹo",
+    "q": "Có 10 con chim đậu trên cành, thợ săn bắn một phát trúng 1 con. Trên cành còn lại mấy con?",
+    "options": [
+      "0 con",
+      "1 con",
+      "9 con",
+      "10 con"
+    ],
+    "answer": 0,
+    "explain": "Tiếng súng làm những con còn lại hoảng sợ bay hết, trên cành không còn con nào."
+  },
+  {
+    "id": "d31",
+    "level": 2,
+    "topic": "Thành ngữ",
+    "q": "Thành ngữ \"Vẽ rắn thêm chân\" chỉ hành động nào?",
+    "options": [
+      "Làm thừa thãi khiến hỏng việc",
+      "Bắt chước người khác",
+      "Làm việc rất khó khăn",
+      "Vẽ tranh rất giỏi"
+    ],
+    "answer": 0,
+    "explain": "Điển tích kể người thi vẽ rắn, vẽ xong còn vẽ thêm chân nên bị xử thua."
+  },
+  {
+    "id": "d32",
+    "level": 2,
+    "topic": "Tục ngữ",
+    "q": "Câu nào sau đây KHÔNG nói về tinh thần đoàn kết, đùm bọc?",
+    "options": [
+      "Cái nết đánh chết cái đẹp",
+      "Lá lành đùm lá rách",
+      "Một cây làm chẳng nên non",
+      "Bầu ơi thương lấy bí cùng"
+    ],
+    "answer": 0,
+    "explain": "\"Cái nết đánh chết cái đẹp\" đề cao nết na hơn nhan sắc. Ba câu còn lại đều nói về đùm bọc, đoàn kết."
+  },
+  {
+    "id": "d33",
+    "level": 2,
+    "topic": "Văn học",
+    "q": "Trong Truyện Kiều, ai là người chuộc Kiều ra khỏi lầu xanh của Tú Bà để làm vợ lẽ?",
+    "options": [
+      "Sở Khanh",
+      "Thúc Sinh",
+      "Kim Trọng",
+      "Từ Hải"
+    ],
+    "answer": 1,
+    "explain": "Thúc Sinh chuộc Kiều nhưng bị Hoạn Thư ghen. Mãi sau Từ Hải mới là người Kiều gọi là tri kỷ."
+  },
+  {
+    "id": "d34",
+    "level": 2,
+    "topic": "Địa lý",
+    "q": "Quốc gia nào có nhiều hồ nhất thế giới?",
+    "options": [
+      "Canada",
+      "Mỹ",
+      "Phần Lan",
+      "Nga"
+    ],
+    "answer": 0,
+    "explain": "Canada có hàng triệu hồ, nhiều hơn mọi nước khác. Phần Lan chỉ nổi tiếng với danh xưng \"đất nước ngàn hồ\"."
+  },
+  {
+    "id": "d35",
+    "level": 2,
+    "topic": "Khoa học",
+    "q": "Vì sao bầu trời ban ngày có màu xanh?",
+    "options": [
+      "Khí oxy trong không khí có màu xanh",
+      "Ánh sáng xanh bị khí quyển tán xạ mạnh hơn các màu khác",
+      "Bầu trời phản chiếu màu nước biển",
+      "Mặt Trời chỉ phát ra ánh sáng xanh"
+    ],
+    "answer": 1,
+    "explain": "Ánh sáng xanh có bước sóng ngắn nên bị tán xạ khắp bầu trời. Nói trời phản chiếu biển là hiểu ngược."
+  },
+  {
+    "id": "d36",
+    "level": 2,
+    "topic": "Thực vật",
+    "q": "Về mặt thực vật học, quả cà chua thuộc nhóm nào?",
+    "options": [
+      "Củ",
+      "Hạt",
+      "Rau lá",
+      "Quả"
+    ],
+    "answer": 3,
+    "explain": "Cà chua phát triển từ bầu nhụy của hoa và chứa hạt nên là quả, dù thường được nấu như rau."
+  },
+  {
+    "id": "d37",
+    "level": 2,
+    "topic": "Lịch sử",
+    "q": "Quân Nguyên Mông xâm lược Đại Việt ba lần, vào những năm nào?",
+    "options": [
+      "1075, 1077, 1285",
+      "1258, 1285, 1287-1288",
+      "1010, 1258, 1428",
+      "938, 981, 1077"
+    ],
+    "answer": 1,
+    "explain": "Cả ba lần đều bị nhà Trần đánh bại, với các danh tướng như Trần Hưng Đạo."
+  },
+  {
+    "id": "d38",
+    "level": 2,
+    "topic": "Địa lý",
+    "q": "Quốc gia nào có diện tích nhỏ nhất thế giới?",
+    "options": [
+      "Monaco",
+      "San Marino",
+      "Vatican",
+      "Nauru"
+    ],
+    "answer": 2,
+    "explain": "Vatican chỉ khoảng 0,44 km², nhỏ hơn Monaco (khoảng 2 km²)."
+  },
+  {
+    "id": "d39",
+    "level": 2,
+    "topic": "Logic",
+    "q": "Nếu \"hôm qua của ngày mai\" là thứ Bảy, thì hôm nay là thứ mấy?",
+    "options": [
+      "Thứ Bảy",
+      "Thứ Sáu",
+      "Thứ Năm",
+      "Chủ nhật"
+    ],
+    "answer": 0,
+    "explain": "Từ ngày mai lùi lại một ngày chính là hôm nay, nên hôm nay là thứ Bảy."
+  },
+  {
+    "id": "d40",
+    "level": 2,
+    "topic": "Lịch sử",
+    "q": "Quốc gia nào có nhiều kim tự tháp nhất thế giới?",
+    "options": [
+      "Ai Cập",
+      "Mexico",
+      "Peru",
+      "Sudan"
+    ],
+    "answer": 3,
+    "explain": "Sudan có hơn 200 kim tự tháp của vương quốc Kush, nhiều hơn Ai Cập (khoảng 120)."
   }
 ]

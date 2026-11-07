@@ -27,7 +27,7 @@ Game thi cử Hương, Hội, Đình chơi hoàn toàn offline trên Android, c�
 
 ## Cấu trúc
 
-- `assets/data/questions.json`: 60 câu hỏi (mỗi cấp 20 câu, mỗi kỳ bốc ngẫu nhiên 12 câu, đáp án xáo lại).
+- `assets/data/questions.json`: 120 câu hỏi (mỗi cấp 40 câu, mỗi kỳ bốc ngẫu nhiên 12 câu của đúng cấp đó, đáp án xáo lại). Câu dễ chỉ ra ở Hương, câu trung bình chỉ ra ở Hội, câu khó chỉ ra ở Đình. Mỗi câu có phần giải thích ngắn hiện sau khi trả lời.
 - `assets/data/messages.json`: lời thoại cổ phong theo từng tình huống. Chỗ `{ten}` được thay bằng tên sĩ tử. Sửa tay thoải mái.
 - `lib/engine.dart`: luật chơi, điểm, chuỗi, 50 bot. Các con số luật nằm ở đầu file.
 - `lib/screens/`: màn hình chủ, thi, kết quả.
@@ -43,11 +43,12 @@ Thêm một mục vào `questions.json`:
   "topic": "Địa lý",
   "q": "Nội dung câu hỏi?",
   "options": ["Đáp án A", "Đáp án B", "Đáp án C", "Đáp án D"],
-  "answer": 0
+  "answer": 0,
+  "explain": "Giải thích ngắn, tối đa 2 dòng (có thể bỏ trống)."
 }
 ```
 
-`level`: 0 = dễ, 1 = trung bình, 2 = khó. `answer` là vị trí (0 đến 3) của đáp án đúng trong `options`. Mỗi cấp cần ít nhất 12 câu.
+`level`: 0 = dễ, 1 = trung bình, 2 = khó. `explain` là phần giải thích hiện sau khi trả lời, nên viết ngắn (khoảng 100 ký tự). `answer` là vị trí (0 đến 3) của đáp án đúng trong `options`. Mỗi cấp cần ít nhất 12 câu, và không nên lặp một câu ở hai cấp khác nhau.
 
 ## Build APK
 
@@ -62,4 +63,4 @@ Trong app có nút **Kiểm tra cập nhật** (và tự kiểm tra khi mở app
 ## Chưa có
 
 - So tài qua wifi LAN (Tạo Phòng / Tìm Phòng bằng mã số, tối đa 10 người, 30 câu).
-- Thêm câu hỏi (hiện 60 câu).
+- Thêm câu hỏi (hiện 120 câu).

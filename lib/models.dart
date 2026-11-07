@@ -8,6 +8,7 @@ class Question {
   final String text;
   final List<String> options;
   final int answer; // vị trí đáp án đúng trong options
+  final String explain; // giải thích ngắn (tối đa 2 dòng), có thể để trống
 
   const Question({
     required this.id,
@@ -16,6 +17,7 @@ class Question {
     required this.text,
     required this.options,
     required this.answer,
+    this.explain = '',
   });
 
   factory Question.fromJson(Map<String, dynamic> json) {
@@ -26,6 +28,7 @@ class Question {
       text: json['q'] as String,
       options: List<String>.from(json['options'] as List<dynamic>),
       answer: json['answer'] as int,
+      explain: (json['explain'] as String?) ?? '',
     );
   }
 }
@@ -50,4 +53,5 @@ class PlayQuestion {
 
   String get text => source.text;
   String get topic => source.topic;
+  String get explain => source.explain;
 }

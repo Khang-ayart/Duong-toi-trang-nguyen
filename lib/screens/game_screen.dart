@@ -537,6 +537,18 @@ class _GameScreenState extends State<GameScreen> {
                 detail,
                 style: const TextStyle(fontSize: 15, height: 1.4, color: AppColors.ink),
               ),
+              if (pq.explain.isNotEmpty) ...<Widget>[
+                const SizedBox(height: 8),
+                Text(
+                  'Giải thích: ${pq.explain}',
+                  style: const TextStyle(
+                    fontSize: 14,
+                    height: 1.4,
+                    fontStyle: FontStyle.italic,
+                    color: AppColors.inkSoft,
+                  ),
+                ),
+              ],
             ],
           ),
         ),
