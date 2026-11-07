@@ -60,7 +60,10 @@ Trong app có nút **Kiểm tra cập nhật** (và tự kiểm tra khi mở app
 
 Để cài đè được, mọi bản build phải ký cùng một khóa và có số bản tăng dần. Vì vậy workflow dùng khóa cố định `keystore/debug.keystore` (đây là khóa của game giải trí, công khai trong repo, không dùng cho mục đích bảo mật) và đặt số bản bằng số lần chạy workflow.
 
+## So tài (wifi LAN, bản thử nghiệm)
+
+Cùng một wifi: một người bấm **Tạo phòng** rồi đọc mã 4 số, người khác bấm **Tìm phòng** và nhập mã (nếu không tìm thấy thì nhập địa chỉ IP của chủ phòng). Tối đa 10 người, 3 kỳ x 10 câu = 30 câu, mọi người thi hết 30 câu. Ngưỡng đạt: Hương 8/10, Hội 7/10, Đình 5/10; danh hiệu tính theo số kỳ đã vượt, top 3 Đình xếp hạng Thám Hoa, Bảng Nhãn, Trạng Nguyên. Một số router bật "cách ly thiết bị" sẽ chặn chức năng này.
+
 ## Chưa có
 
-- So tài qua wifi LAN (Tạo Phòng / Tìm Phòng bằng mã số, tối đa 10 người, 30 câu).
 - Thêm câu hỏi (hiện 120 câu).

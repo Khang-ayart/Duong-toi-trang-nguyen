@@ -7,6 +7,7 @@ import '../theme.dart';
 import '../updater.dart';
 import '../widgets.dart';
 import 'game_screen.dart';
+import 'lan_menu_screen.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
@@ -129,9 +130,16 @@ class _HomeScreenState extends State<HomeScreen> {
   }
 
   void _soTai() {
-    ScaffoldMessenger.of(context).showSnackBar(
-      const SnackBar(
-        content: Text('So tài qua wifi LAN sẽ ra mắt ở bản sau. Hiện chưa mở.'),
+    final GameData? data = _data;
+    if (data == null) {
+      return;
+    }
+    final String typed = _name.text.trim();
+    final String name = typed.isEmpty ? 'Sĩ tử' : typed;
+    Navigator.of(context).push(
+      MaterialPageRoute<void>(
+        builder: (BuildContext context) =>
+            LanMenuScreen(data: data, playerName: name),
       ),
     );
   }
@@ -243,7 +251,7 @@ class _HomeScreenState extends State<HomeScreen> {
     );
     children.add(const SizedBox(height: 12));
     children.add(
-      SecondaryButton(label: 'So tài (wifi LAN) · sắp ra mắt', onPressed: _soTai),
+      SecondaryButton(label: 'So tài (wifi LAN)', onPressed: _soTai),
     );
     children.add(const SizedBox(height: 8));
     children.add(
