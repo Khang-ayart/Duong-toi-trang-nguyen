@@ -1,6 +1,6 @@
-# Icon app (chuẩn bị cho đợt cập nhật sau)
+# Icon app
 
-Chưa gắn vào app. Thư mục này chỉ lưu sẵn bộ icon làm từ hình gốc: mũ trạng nguyên trên ba đồng tiền Hương, Hội, Đình.
+Đã được gắn vào app qua workflow (bước "Gắn icon app"). Thư mục này lưu sẵn bộ icon làm từ hình gốc: mũ trạng nguyên trên ba đồng tiền Hương, Hội, Đình.
 
 ## Có gì ở đây
 
@@ -9,16 +9,9 @@ Chưa gắn vào app. Thư mục này chỉ lưu sẵn bộ icon làm từ hình
 - `res/mipmap-*/ic_launcher_foreground.png` và `res/values/ic_launcher_background.xml`: icon thích ứng (adaptive) cho Android 8 trở lên. Lớp trước là biểu tượng trong vòng hoa văn, lớp sau là màu đỏ bordeaux `#480914`. Dòng chữ "TRẠNG NGUYÊN" ở đáy được bỏ khỏi lớp trước vì launcher sẽ cắt tròn hoặc bo vuông và làm cụt chữ.
 - `res/mipmap-anydpi-v26/ic_launcher.xml`: khai báo icon thích ứng.
 
-## Cách gắn vào app (làm ở đợt cập nhật sau)
+## Cách gắn vào app
 
-Khung Android do workflow tự tạo mỗi lần build, nên chỉ cần thêm một bước vào `.github/workflows/build-apk.yml`, ngay sau bước "Tạo khung Android nếu repo chưa có":
-
-```yaml
-      - name: Gắn icon app
-        run: cp -r prep/icon/res/* android/app/src/main/res/
-```
-
-Khi `flutter create` chạy nó đã tạo sẵn `ic_launcher.png` mặc định, bước trên sẽ ghi đè bằng icon này. Không cần sửa `AndroidManifest.xml` vì manifest mặc định đã trỏ tới `@mipmap/ic_launcher`.
+Workflow tự copy `res/*` vào `android/app/src/main/res/` sau khi tạo khung Android, ghi đè icon mặc định của Flutter. Không cần sửa `AndroidManifest.xml` vì manifest mặc định đã trỏ tới `@mipmap/ic_launcher`.
 
 ## Ghi chú
 

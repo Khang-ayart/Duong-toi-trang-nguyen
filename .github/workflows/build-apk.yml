@@ -46,6 +46,9 @@ jobs:
             sed -i 's|<application|<uses-permission android:name="android.permission.INTERNET"/>\n    <application|' android/app/src/main/AndroidManifest.xml
           fi
 
+      - name: Gắn icon app
+        run: cp -r prep/icon/res/* android/app/src/main/res/
+
       - name: Dùng khóa ký cố định (để cài đè được lên bản cũ)
         run: |
           mkdir -p ~/.android

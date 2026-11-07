@@ -252,12 +252,14 @@ class _HomeScreenState extends State<HomeScreen> {
         child: const Text('Thể lệ khoa thi'),
       ),
     );
+    children.add(const SizedBox(height: 4));
     children.add(
-      TextButton(
+      SecondaryButton(
+        label: _checking ? 'Đang kiểm tra...' : 'Kiểm tra cập nhật',
         onPressed: _checking ? null : () => _checkUpdate(silent: false),
-        child: Text(_checking ? 'Đang kiểm tra...' : 'Kiểm tra cập nhật'),
       ),
     );
+    children.add(const SizedBox(height: 6));
     children.add(
       Text(
         'Phiên bản $kBuildNumber',
